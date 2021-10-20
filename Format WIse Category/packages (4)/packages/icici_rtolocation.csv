@@ -1,0 +1,818 @@
+Vehicle RTO Codes,District/Region,State
+MH-01,Mumbai (South) - RTO is located in Tardeo,Maharashtra
+MH-02,Mumbai (West) - RTO is located in Andheri,Maharashtra
+MH-03,Mumbai (East) - RTO is located in Wadala,Maharashtra
+MH-04,Thane,Maharashtra
+MH-05,"Kalyan: Kalyan, Dombivli, Ulhasnagar, Ambernath and Badlapur - RTO is located in Kalyan",Maharashtra
+MH-06,"Raigad - RTO is located in Pen (does not include Navi Mumbai, Kharghar to Panvel)",Maharashtra
+MH-07,Sindhudurg - RTO is located in Sindhudurg Nagari,Maharashtra
+MH-08,Ratnagiri,Maharashtra
+MH-09,Kolhapur,Maharashtra
+MH-10,Sangli,Maharashtra
+MH-11,Satara,Maharashtra
+MH-12,Pune,Maharashtra
+MH-13,Solapur (city),Maharashtra
+MH-14,Pimpri-Chinchwad,Maharashtra
+MH-15,Nashik (city),Maharashtra
+MH-16,Ahmednagar,Maharashtra
+MH-17,"Shrirampur, Ahmednagar District",Maharashtra
+MH-18,Dhule,Maharashtra
+MH-19,Jalgaon,Maharashtra
+MH-20,Aurangabad,Maharashtra
+MH-21,Jalna (city),Maharashtra
+MH-22,Parbhani,Maharashtra
+MH-23,Beed,Maharashtra
+MH-24,Latur,Maharashtra
+MH-25,Osmanabad,Maharashtra
+MH-26,Nanded,Maharashtra
+MH-27,Amravati,Maharashtra
+MH-28,Buldana,Maharashtra
+MH-29,Yavatmal,Maharashtra
+MH-30,Akola,Maharashtra
+MH-31,Nagpur,Maharashtra
+MH-32,Wardha,Maharashtra
+MH-33,Gadchiroli,Maharashtra
+MH-34,Chandrapur,Maharashtra
+MH-35,Gondia,Maharashtra
+MH-36,Bhandara,Maharashtra
+MH-37,Washim,Maharashtra
+MH-38,Hingoli,Maharashtra
+MH-39,Nandurbar,Maharashtra
+MH-40,Nagpur (rural),Maharashtra
+MH-41,"Malegaon, Nashik District",Maharashtra
+MH-42,"Baramati, Pune",Maharashtra
+MH-43,Navi Mumbai,Maharashtra
+MH-44,"Ambejogai, Beed",Maharashtra
+MH-45,"Akluj, Solapur",Maharashtra
+MH-46,Panvel-Khopoli,Maharashtra
+MH-47,Mumbai (North),Maharashtra
+MH-48,Vasai / Virar / Palghar,Maharashtra
+MH-49,Nagpur (East),Maharashtra
+MH-50,Karad (Satara Rural),Maharashtra
+MH-51,Nashik (Rural),Maharashtra
+DL-1C,Delhi North: Mall Road,Delhi
+DL-1F,Delhi North: Mall Road,Delhi
+DL-2C,New Delhi: Tilak Marg,Delhi
+DL-2F,New Delhi: Tilak Marg,Delhi
+DL-3C,South Delhi: Sheikh Sarai,Delhi
+DL-3F,South Delhi: Sheikh Sarai,Delhi
+DL-4C,West Delhi West 1: West Janakpuri / Janakpuri / Raja Garden,Delhi
+DL-4F,West Delhi West 1: West Janakpuri / Janakpuri / Raja Garden,Delhi
+DL-5C,North East Delhi: Loni Road,Delhi
+DL-5F,North East Delhi: Loni Road,Delhi
+DL-6C,Central Delhi Central: Sarai Kale Khan,Delhi
+DL-6F,Central Delhi Central: Sarai Kale Khan,Delhi
+DL-7C,East Delhi East 1: Mayur Vihar / Surajmal Vihar,Delhi
+DL-7F,East Delhi East 1: Mayur Vihar / Surajmal Vihar,Delhi
+DL-8C,North West Delhi 1: WazirPur/ Ashok Vihar/ Rohini,Delhi
+DL-8F,North West Delhi 1: WazirPur/ Ashok Vihar/ Rohini,Delhi
+DL-9C,South West Delhi South West 1: Janakpuri / Palam / Vasant Vihar,Delhi
+DL-9F,South West Delhi South West 1: Janakpuri / Palam / Vasant Vihar,Delhi
+DL-10,West Delhi-II: Raja Garden,Delhi
+DL-11,North West Delhi North West Zone II: Rohini,Delhi
+DL-12,South West Delhi South West II: Vasant Vihar,Delhi
+DL-13,East Delhi II: Surajmal Vihar / Shahdara,Delhi
+DL-14,"Sonipat due to the NCR, effectively situated in Haryana, presently not in use",Delhi
+DL-15,"Gurgaon due to the NCR, effectively situated in Haryana, presently not in use",Delhi
+DL-16,"Faridabad due to the NCR, effectively situated in Haryana, presently not in use",Delhi
+DL-17,"Noida due to the NCR, effectively situated in Uttar Pradesh, presently not in use",Delhi
+DL-18,"Ghaziabad due to the NCR, effectively situated in Uttar Pradesh , presently not in use",Delhi
+UP-11,Saharanpur,Uttar_pradesh
+UP-12,Muzaffarnagar,Uttar_pradesh
+UP-13,Bulandshahr,Uttar_pradesh
+UP-14,Ghaziabad,Uttar_pradesh
+UP-15,Meerut,Uttar_pradesh
+UP-16,Noida,Uttar_pradesh
+UP-17,Bagpat,Uttar_pradesh
+UP-19,Shamli,Uttar_pradesh
+UP-20,Bijnor,Uttar_pradesh
+UP-21,Moradabad,Uttar_pradesh
+UP-22,Rampur,Uttar_pradesh
+UP-23,Amroha,Uttar_pradesh
+UP-24,Badaun,Uttar_pradesh
+UP-25,Bareilly,Uttar_pradesh
+UP-26,Pilibhit,Uttar_pradesh
+UP-27,Shahjahanpur,Uttar_pradesh
+UP-30,Hardoi,Uttar_pradesh
+UP-31,Lakhimpur Kheri,Uttar_pradesh
+UP-32,Lucknow,Uttar_pradesh
+UP-33,Raebareli,Uttar_pradesh
+UP-34,Sitapur,Uttar_pradesh
+UP-35,Unnao,Uttar_pradesh
+UP-36,Amethi,Uttar_pradesh
+UP-37,Hapur,Uttar_pradesh
+UP-38,Sambhal,Uttar_pradesh
+UP-40,Bahraich,Uttar_pradesh
+UP-41,Barabanki,Uttar_pradesh
+UP-42,Faizabad,Uttar_pradesh
+UP-43,Gonda,Uttar_pradesh
+UP-44,Sultanpur,Uttar_pradesh
+UP-45,Ambedkar Nagar,Uttar_pradesh
+UP-46,Shrawasti,Uttar_pradesh
+UP-47,Balrampur,Uttar_pradesh
+UP-50,Azamgarh,Uttar_pradesh
+UP-51,Basti,Uttar_pradesh
+UP-52,Deoria,Uttar_pradesh
+UP-53,Gorakhpur,Uttar_pradesh
+UP-54,Mau,Uttar_pradesh
+UP-55,Siddharth Nagar,Uttar_pradesh
+UP-56,Mahrajganj,Uttar_pradesh
+UP-57,Padrauna,Uttar_pradesh
+UP-58,Sant Kabir Nagar,Uttar_pradesh
+UP-60,Ballia,Uttar_pradesh
+UP-61,Ghazipur,Uttar_pradesh
+UP-62,Jaunpur,Uttar_pradesh
+UP-63,Mirzapur,Uttar_pradesh
+UP-64,Sonbhadra,Uttar_pradesh
+UP-65,Varanasi,Uttar_pradesh
+UP-66,Sant Ravidas Nagar,Uttar_pradesh
+UP-67,Chandauli,Uttar_pradesh
+UP-70,Allahabad,Uttar_pradesh
+UP-71,Fatehpur,Uttar_pradesh
+UP-72,Pratapgarh,Uttar_pradesh
+UP-73,Kaushambi,Uttar_pradesh
+UP-74,Kannauj,Uttar_pradesh
+UP-75,Etawah,Uttar_pradesh
+UP-76,Farrukhabad,Uttar_pradesh
+UP-77,Kanpur Dehat (rural),Uttar_pradesh
+UP-78,Kanpur Nagar,Uttar_pradesh
+UP-79,Auraiya,Uttar_pradesh
+UP-80,Agra,Uttar_pradesh
+UP-81,Aligarh,Uttar_pradesh
+UP-82,Etah,Uttar_pradesh
+UP-83,Firozabad,Uttar_pradesh
+UP-84,Mainpuri,Uttar_pradesh
+UP-85,Mathura,Uttar_pradesh
+UP-86,Mahamaya Nagar,Uttar_pradesh
+UP-87,Kanshiram Nagar,Uttar_pradesh
+UP-90,Banda,Uttar_pradesh
+UP-91,Hamirpur,Uttar_pradesh
+UP-92,Jalaun,Uttar_pradesh
+UP-93,Jhansi,Uttar_pradesh
+UP-94,Lalitpur,Uttar_pradesh
+UP-95,Mahoba,Uttar_pradesh
+UP-96,Chitrakoot Dham (Karwi),Uttar_pradesh
+MP-01,State Governor's Vehicle,Madhya_pradesh
+MP-02,MP Government Vehicles,Madhya_pradesh
+MP-03,MP Police Vehicles,Madhya_pradesh
+MP-04,Bhopal,Madhya_pradesh
+MP-05,Hoshangabad,Madhya_pradesh
+MP-06,Morena,Madhya_pradesh
+MP-07,Gwalior,Madhya_pradesh
+MP-08,Guna,Madhya_pradesh
+MP-09,Indore,Madhya_pradesh
+MP-10,Khargone,Madhya_pradesh
+MP-11,Dhar,Madhya_pradesh
+MP-12,Khandwa,Madhya_pradesh
+MP-13,Ujjain,Madhya_pradesh
+MP-14,Mandasaur,Madhya_pradesh
+MP-15,Sagar,Madhya_pradesh
+MP-16,Chhatarpur,Madhya_pradesh
+MP-17,Rewa,Madhya_pradesh
+MP-18,Shahdol,Madhya_pradesh
+MP-19,Satna,Madhya_pradesh
+MP-20,Jabalpur,Madhya_pradesh
+MP-21,Katni,Madhya_pradesh
+MP-22,Seoni,Madhya_pradesh
+MP-23,Raipur (not in use),Madhya_pradesh
+MP-24,Durg (not in use),Madhya_pradesh
+MP-25,Jagdalpur (not in use),Madhya_pradesh
+MP-26,Bilaspur (not in use),Madhya_pradesh
+MP-27,Ambikapur (not in use),Madhya_pradesh
+MP-28,Chhindwara,Madhya_pradesh
+MP-29,Rajnandgaon (not in use),Madhya_pradesh
+MP-30,Bhind,Madhya_pradesh
+MP-31,Sheopur,Madhya_pradesh
+MP-32,Datia,Madhya_pradesh
+MP-33,Shivpuri,Madhya_pradesh
+MP-34,Damoh,Madhya_pradesh
+MP-35,Panna,Madhya_pradesh
+MP-36,Tikamgarh,Madhya_pradesh
+MP-37,Sehore,Madhya_pradesh
+MP-38,Raisen,Madhya_pradesh
+MP-39,Rajgarh,Madhya_pradesh
+MP-40,Vidisha,Madhya_pradesh
+MP-41,Dewas,Madhya_pradesh
+MP-42,Shajapur,Madhya_pradesh
+MP-43,Ratlam,Madhya_pradesh
+MP-44,Neemuch,Madhya_pradesh
+MP-45,Jhabua,Madhya_pradesh
+MP-46,Badwani,Madhya_pradesh
+MP-47,Harda,Madhya_pradesh
+MP-48,Betul,Madhya_pradesh
+MP-49,Narsinghpur,Madhya_pradesh
+MP-50,Balaghat,Madhya_pradesh
+MP-51,Mandla,Madhya_pradesh
+MP-52,Dindori,Madhya_pradesh
+MP-53,Sidhi,Madhya_pradesh
+MP-54,Umariya,Madhya_pradesh
+MP-55,Bagli,Madhya_pradesh
+MP-65,Anoopur,Madhya_pradesh
+MP-66,Singrauli,Madhya_pradesh
+MP-67,Ashoknagar,Madhya_pradesh
+MP-68,Burhanpur,Madhya_pradesh
+MP-69,Alirajpur,Madhya_pradesh
+MP-70,Agar / Malwa,Madhya_pradesh
+TS-01,Adilabad,Telangana
+TS-02,Karimnagar,Telangana
+TS-03,Warangal,Telangana
+TS-04,Khammam,Telangana
+TS-05,Nalgonda,Telangana
+TS-06,Mahbubnagar,Telangana
+TS-07,Kukatpally / Medchal,Telangana
+TS-08,Uppal Kalan / Ibrahimpatnam,Telangana
+TS-09,Hyderabad Central (Khairtabad),Telangana
+TS-10,Hyderabad North (Secunderabad),Telangana
+TS-11,Hyderabad East (Malakpet),Telangana
+TS-12,Hyderabad South (Kisanbagh),Telangana
+TS-13,Hyderabad West (Tolichowki),Telangana
+TS-14,Hyderabad (reserved),Telangana
+TS-15,Medak,Telangana
+TS-16,Nizamabad,Telangana
+WB-01,Kolkata Beltala (two-wheelers),West_Bengal
+WB-02,Kolkata Beltala (private four-wheelers),West_Bengal
+WB-03,Kolkata Beltala (goods carriages),West_Bengal
+WB-04,Kolkata Beltala (commercial vehicles),West_Bengal
+WB-05,Kolkata Kasba (commercial vehicles),West_Bengal
+WB-06,Kolkata Kasba,West_Bengal
+WB-07,Kolkata Salt Lake,West_Bengal
+WB-08,Kolkata Salt Lake (private vehicles),West_Bengal
+WB-11,Howrah Transport Vehicles,West_Bengal
+WB-12,Howrah Private Vehicles,West_Bengal
+WB-13,Uluberia (transport vehicles),West_Bengal
+WB-14,Uluberia (private vehicles),West_Bengal
+WB-15,Hugli-Chuchura (Transport Vehicles),West_Bengal
+WB-16,Hugli-Chuchura (Private Vehicles),West_Bengal
+WB-17,Hooghly Srirampur (commercial vehicles),West_Bengal
+WB-18,Dankuni,West_Bengal
+WB-19,Alipore (transport vehicles),West_Bengal
+WB-20,Alipore (private vehicles),West_Bengal
+WB-23,Barrackpore (transport vehicles),West_Bengal
+WB-24,Barrackpore (private vehicles),West_Bengal
+WB-25,Barasat (transport vehicles),West_Bengal
+WB-26,Barasat (private vehicles),West_Bengal
+WB-29,Tamluk (transport vehicles),West_Bengal
+WB-30,Tamluk (private vehicles),West_Bengal
+WB-31,Contai (transport vehicles),West_Bengal
+WB-32,Contai (private vehicles),West_Bengal
+WB-33,Midnapur (transport vehicles),West_Bengal
+WB-34,Midnapur (private vehicles),West_Bengal
+WB-36,Midnapur (private vehicles),West_Bengal
+WB-37,Asansol (transport vehicles),West_Bengal
+WB-38,Asansol (private vehicles),West_Bengal
+WB-39,Durgapur (transport vehicles),West_Bengal
+WB-40,Durgapur (private vehicles),West_Bengal
+WB-41,Burdwan (transport vehicles),West_Bengal
+WB-42,Burdwan (private vehicles),West_Bengal
+WB-43,Kalna (transport vehicles),West_Bengal
+WB-44,Asansol (private vehicles),West_Bengal
+WB-47,Bolpur (transport vehicles),West_Bengal
+WB-48,Bolpur (private vehicles),West_Bengal
+WB-51,Nadia (transport vehicles),West_Bengal
+WB-52,Nadia (other than transport vehicles),West_Bengal
+WB-53,Birbhum (transport vehicles),West_Bengal
+WB-54,Birbhum (other than transport vehicles),West_Bengal
+WB-55,Purulia (transport vehicles),West_Bengal
+WB-56,Purulia (other than transport vehicles),West_Bengal
+WB-57,Murshidabad (transport vehicles),West_Bengal
+WB-58,Murshidabad (other than transport vehicles),West_Bengal
+WB-59,Raiganj (transport vehicles),West_Bengal
+WB-60,Raiganj (other than transport vehicles),West_Bengal
+WB-61,Balurghat (transport vehicles),West_Bengal
+WB-62,Balurghat (other than transport vehicles),West_Bengal
+WB-63,Cooch Behar (transport vehicles; all NBSTC buses are also registered from this RTO),West_Bengal
+WB-64,Cooch Behar (other than transport vehicles),West_Bengal
+WB-65,Malda (transport vehicles),West_Bengal
+WB-66,Malda (other than transport vehicles),West_Bengal
+WB-67,Bankura (transport vehicles),West_Bengal
+WB-68,Bankura (other than transport vehicles),West_Bengal
+WB-69,Alipurduar (transport vehicles),West_Bengal
+WB-70,Alipurduar (other than transport vehicles),West_Bengal
+WB-71,Jalpaiguri (transport vehicles),West_Bengal
+WB-72,Jalpaiguri (other than transport vehicles),West_Bengal
+WB-73,Siliguri (transport vehicles),West_Bengal
+WB-74,Siliguri (other than transport vehicles),West_Bengal
+WB-76,Darjeeling (transport vehicles),West_Bengal
+WB-77,Darjeeling (other than transport vehicles),West_Bengal
+WB-78,Kalimpong (transport vehicles),West_Bengal
+WB-79,Kalimpong (other than transport vehicles),West_Bengal
+WB-82,Raghunathpur (transport vehicles),West_Bengal
+WB-85,Mathabhanga RTO (all commertial vehicle),West_Bengal
+WB-86,"Mathabhanga RTO (other than transport, both two and four wheeler)",West_Bengal
+WB-89,Kalyani (transport vehicles),West_Bengal
+WB-90,Kalyani (private vehicles),West_Bengal
+WB-91,Islampur (commercial vehicles),West_Bengal
+WB-92,Islampur (private vehicles),West_Bengal
+WB-93,Jahangirpur (Murshidabad) (Commerial Vehicle),West_Bengal
+WB-94,Jahangirpur (Murshidabad) (transport vehicles),West_Bengal
+WB-96,Baruipur (private vehicles),West_Bengal
+HR-01,Ambala (private vehicles),Haryana
+HR-02,Jagadhari (private vehicles),Haryana
+HR-03,Panchkula,Haryana
+HR-04,Naraingarh,Haryana
+HR-05,Karnal,Haryana
+HR-06,Panipat,Haryana
+HR-07,Kurukshetra,Haryana
+HR-08,Kaithal,Haryana
+HR-09,Guhla,Haryana
+HR-10,Sonepat,Haryana
+HR-11,Gohana,Haryana
+HR-12,Rohtak,Haryana
+HR-13,Bahadurgarh,Haryana
+HR-14,Jhajjar,Haryana
+HR-15,Meham,Haryana
+HR-16,Bhiwani,Haryana
+HR-17,Siwani,Haryana
+HR-18,Loharu,Haryana
+HR-19,Charkhi Dadri,Haryana
+HR-20,Hisar,Haryana
+HR-21,Hansi,Haryana
+HR-22,Fatehabad,Haryana
+HR-23,Tohana,Haryana
+HR-24,Sirsa,Haryana
+HR-25,Dabwali,Haryana
+HR-26,Gurgaon (North) (private vehicles),Haryana
+HR-27,Nuh,Haryana
+HR-28,Ferozepur Jhirka,Haryana
+HR-29,Ballabgarh,Haryana
+HR-30,Palwal,Haryana
+HR-31,Jind,Haryana
+HR-32,Narwana,Haryana
+HR-33,Safidon,Haryana
+HR-34,Mahendragarh,Haryana
+HR-35,Narnaul,Haryana
+HR-36,Rewari,Haryana
+HR-37,Ambala (commercial vehicles only),Haryana
+HR-38,Faridabad (commercial vehicles only),Haryana
+HR-39,Hisar (commercial vehicles only),Haryana
+HR-40,Assandh,Haryana
+HR-41,Pehowa,Haryana
+HR-42,Ganaur,Haryana
+HR-43,Kosli,Haryana
+HR-44,Ellenabad,Haryana
+HR-45,Karnal (commercial vehicles only),Haryana
+HR-46,Rohtak (commercial vehicles only),Haryana
+HR-47,Rewari (commercial vehicles only),Haryana
+HR-48,Tosham,Haryana
+HR-49,Kalka,Haryana
+HR-50,Hodal,Haryana
+HR-51,Faridabad,Haryana
+HR-52,Hathin,Haryana
+HR-53,Adampur,Haryana
+HR-54,Ambala - Barara,Haryana
+HR-55,Gurgaon (commercial vehicles only),Haryana
+HR-56,Jind (commercial vehicles only),Haryana
+HR-57,Sirsa (commercial vehicles only),Haryana
+HR-58,"Jagadhari, Yamuna Nagar (commercial vehicles only)",Haryana
+HR-59,Ratia,Haryana
+HR-60,Samalkha,Haryana
+HR-61,Bhiwani (commercial vehicles only),Haryana
+HR-62,Fatehabad (commercial vehicles only),Haryana
+HR-63,Jhajjar (commercial vehicles only),Haryana
+HR-64,Kaithal (commercial vehicles only),Haryana
+HR-65,Kurukshetra (commercial vehicles only),Haryana
+HR-66,Narnaul (commercial vehicles only),Haryana
+HR-67,Panipat (commercial vehicles only),Haryana
+HR-68,Panchkula (commercial vehicles only),Haryana
+HR-69,Sonipat (commercial vehicles only),Haryana
+HR-70,Transport Commissioner in Chandigarh.,Haryana
+HR-71,Bilaspur,Haryana
+HR-72,Gurgaon (South) (private vehicles),Haryana
+HR-73,Palwal,Haryana
+HR-74,Mewat (Nuh),Haryana
+HR-75,Indri,Haryana
+HR-76,Pataudi,Haryana
+HR-77,Beri,Haryana
+HR-78,Shahabad Markanda,Haryana
+HR-79,Kharkhonda,Haryana
+HR-80,Barwala,Haryana
+HR-81,Bawal,Haryana
+HR-82,Kanina,Haryana
+HR-83,Kalayat,Haryana
+HR-84,Charkhi Dadri,Haryana
+HR-85,Ambala South CANTT,Haryana
+HR-86,Narnaud,Haryana
+HR-87,Badhkal (Faridabad South),Haryana
+HR-88,Badhra,Haryana
+HR-89,Badli,Haryana
+HR-90,Uchana,Haryana
+HR-91,Gharaunda,Haryana
+HR-92,Radaur,Haryana
+HR-93,Punhana,Haryana
+HR-94,Kalanwali,Haryana
+HR-95,Sampla,Haryana
+HR-96,Tauru,Haryana
+HR-97,Ladwa,Haryana
+HR-99,(temporary numbers for new vehicles),Haryana
+JH-01,Ranchi,Jharkhand
+JH-02,Hazaribagh,Jharkhand
+JH-03,Daltonganj,Jharkhand
+JH-04,Dumka,Jharkhand
+JH-05,Jamshedpur,Jharkhand
+JH-06,Chaibasa,Jharkhand
+JH-07,Gumla,Jharkhand
+JH-08,Lohardaga,Jharkhand
+JH-09,Bokaro Steel City,Jharkhand
+JH-10,Dhanbad,Jharkhand
+JH-11,Giridih,Jharkhand
+JH-12,Koderma,Jharkhand
+JH-13,Chatra,Jharkhand
+JH-14,Garhwa,Jharkhand
+JH-15,Deoghar,Jharkhand
+JH-16,Pakur,Jharkhand
+JH-17,Godda,Jharkhand
+JH-18,Sahibganj,Jharkhand
+JH-19,Latehar,Jharkhand
+JH-20,Simdega,Jharkhand
+JH-21,Jamtara,Jharkhand
+JH-22,Saraikela-Kharsawan,Jharkhand
+JH-23,Khunti,Jharkhand
+JH-24,Ramgarh,Jharkhand
+GJ-01,Ahmedabad,Gujarat
+GJ-02,Mehsana,Gujarat
+GJ-03,Rajkot,Gujarat
+GJ-04,Bhavnagar,Gujarat
+GJ-05,Surat City,Gujarat
+GJ-06,Vadodara City,Gujarat
+GJ-07,Kheda (Nadiad),Gujarat
+GJ-08,Banaskantha (Palanpur),Gujarat
+GJ-09,Sabarkantha (Himmatnagar),Gujarat
+GJ-10,Jamnagar,Gujarat
+GJ-11,Junagadh,Gujarat
+GJ-12,Kutch,Gujarat
+GJ-13,Surendranagar,Gujarat
+GJ-14,Amreli,Gujarat
+GJ-15,Valsad,Gujarat
+GJ-16,Bharuch,Gujarat
+GJ-17,Panchmahal (Godhara),Gujarat
+GJ-18,Gandhinagar,Gujarat
+GJ-19,"Bardoli, District Surat",Gujarat
+GJ-20,Dahod,Gujarat
+GJ-21,Navsari,Gujarat
+GJ-22,Narmada,Gujarat
+GJ-23,Anand,Gujarat
+GJ-24,Patan,Gujarat
+GJ-25,Porbandar (Sudamapuri),Gujarat
+GJ-26,Vyara,Gujarat
+GJ-27,Ahmedabad East (Vastral),Gujarat
+GJ-28,Surat West,Gujarat
+GJ-29,Vadodara rural,Gujarat
+GJ-30,Dang,Gujarat
+GJ-31,Aravalli- (Modasa),Gujarat
+GJ-32,Gir Somnath – Veraval,Gujarat
+GJ-33,Botad,Gujarat
+GJ-34,Chhota Udaipur,Gujarat
+GJ-35,Mahisagar - Lunavada,Gujarat
+GJ-36,Morbi,Gujarat
+GJ-37,Khambhalia (Devbhumi Dwarka),Gujarat
+GJ-38,Bavla,Gujarat
+RJ-01,Ajmer,Rajasthan
+RJ-02,Alwar,Rajasthan
+RJ-03,Banswara,Rajasthan
+RJ-04,Barmer,Rajasthan
+RJ-05,Bharatpur,Rajasthan
+RJ-06,Bhilwara,Rajasthan
+RJ-07,Bikaner,Rajasthan
+RJ-08,Bundi,Rajasthan
+RJ-09,Chittaurgarh,Rajasthan
+RJ-10,Churu,Rajasthan
+RJ-11,Dholpur,Rajasthan
+RJ-12,Dungarpur,Rajasthan
+RJ-13,Sri Ganganagar,Rajasthan
+RJ-14,Jaipur South,Rajasthan
+RJ-15,Jaisalmer,Rajasthan
+RJ-16,Jalore,Rajasthan
+RJ-17,Jhalawar,Rajasthan
+RJ-18,Jhunjhunu,Rajasthan
+RJ-19,Jodhpur,Rajasthan
+RJ-20,Kota,Rajasthan
+RJ-21,Nagaur,Rajasthan
+RJ-22,Pali,Rajasthan
+RJ-23,Sikar,Rajasthan
+RJ-24,Sirohi,Rajasthan
+RJ-25,Sawai Madhopur,Rajasthan
+RJ-26,Tonk,Rajasthan
+RJ-27,Udaipur,Rajasthan
+RJ-28,Baran,Rajasthan
+RJ-29,Dausa,Rajasthan
+RJ-30,Rajsamand,Rajasthan
+RJ-31,Hanumangarh,Rajasthan
+RJ-32,Kotputli (Jaipur),Rajasthan
+RJ-33,Ramganj Mandi (Kota),Rajasthan
+RJ-34,Karauli,Rajasthan
+RJ-35,Pratapgarh,Rajasthan
+RJ-36,Beawar (Ajmer),Rajasthan
+RJ-37,Didwana (Nagaur),Rajasthan
+RJ-38,Abu Road (Sirohi),Rajasthan
+RJ-39,Balotra (Barmer),Rajasthan
+RJ-40,Bhiwadi (Alwar),Rajasthan
+RJ-41,Chomu (Jaipur),Rajasthan
+RJ-42,Kishangarh (Ajmer),Rajasthan
+RJ-43,Phalodi (Jodhpur),Rajasthan
+RJ-44,Sujangarh (Churu),Rajasthan
+RJ-45,Jaipur North,Rajasthan
+RJ-46,Bhinmal (Jalore),Rajasthan
+RJ-47,Dudu (Jaipur),Rajasthan
+RJ-48,Kekri (Ajmer),Rajasthan
+RJ-49,Nohar (Hanumangrah),Rajasthan
+RJ-50,Nokha (Bikaner),Rajasthan
+RJ-51,Shahpura (Bhilwara),Rajasthan
+RJ-52,Shahpura (Jaipur),Rajasthan
+PB-01,Chandigarh taxi vehicles from Punjab,Punjab
+PB-02,Amritsar,Punjab
+PB-03,Bathinda,Punjab
+PB-04,Faridkot,Punjab
+PB-05,Ferozepur,Punjab
+PB-06,Gurdaspur,Punjab
+PB-07,Hoshiarpur,Punjab
+PB-08,Jalandhar,Punjab
+PB-09,Kapurthala,Punjab
+PB-10,Ludhiana,Punjab
+PB-11,Patiala,Punjab
+PB-12,Ropar,Punjab
+PB-13,Sangrur,Punjab
+PB-14,Ajnala,Punjab
+PB-15,Abohar,Punjab
+PB-16,Anandpur Sahib,Punjab
+PB-17,Baba Bakala,Punjab
+PB-18,Batala,Punjab
+PB-19,Barnala,Punjab
+PB-20,Balachaur,Punjab
+PB-21,Dasuya,Punjab
+PB-22,Fazilka,Punjab
+PB-23,Fatehgarh Sahib,Punjab
+PB-24,Garhshankar,Punjab
+PB-25,Jagraon,Punjab
+PB-26,Khanna,Punjab
+PB-27,Kharar,Punjab
+PB-28,Malerkotla,Punjab
+PB-29,Moga,Punjab
+PB-30,Muktsar,Punjab
+PB-31,Mansa,Punjab
+PB-32,Nawanshahr,Punjab
+PB-33,Nakodar,Punjab
+PB-34,Nabha (Patiala South West),Punjab
+PB-35,Pathankot,Punjab
+PB-36,Phagwara,Punjab
+PB-37,Phillaur,Punjab
+PB-38,Patti,Punjab
+PB-39,Rajpura (Patiala North),Punjab
+PB-40,Rampura Phul,Punjab
+PB-41,Sultanpur Lodhi,Punjab
+PB-42,Samana (Patiala East),Punjab
+PB-43,Samrala,Punjab
+PB-44,Sunam,Punjab
+PB-45,Talwandi Sabo,Punjab
+PB-46,Tarn Taran,Punjab
+PB-47,Zira,Punjab
+PB-48,Amloh (West),Punjab
+PB-49,Khamano,Punjab
+PB-50,Budhlada,Punjab
+PB-51,Jhunir / Sardulgarh,Punjab
+PB-52,Bassi Pathana,Punjab
+PB-53,Malout,Punjab
+PB-54,Mukerian,Punjab
+PB-55,Payal,Punjab
+PB-56,Raikot,Punjab
+PB-57,Bhulath,Punjab
+PB-58,Dera Baba Nanak,Punjab
+PB-59,Dhuri,Punjab
+PB-60,Gidderbaha,Punjab
+PB-61,Jalalabad,Punjab
+PB-62,Jaitu,Punjab
+PB-63,Khadoor Sahib,Punjab
+PB-64,Moonak,Punjab
+PB-65,Mohali,Punjab
+PB-66,Nihal Singh Wala,Punjab
+PB-67,Shahkot,Punjab
+PB-68,Dhar Kalan,Punjab
+PB-69,Bagha Purana,Punjab
+PB-70,Dera Bassi,Punjab
+PB-71,Chamkaur Sahib,Punjab
+PB-72,Patran (Patiala East),Punjab
+PB-73,Tappa Mandi,Punjab
+PB-74,Nangal,Punjab
+PB-75,Lehra,Punjab
+PB-76,Ahmedgarh,Punjab
+PB-77,Guru Har Sahai,Punjab
+AP-02,Anantapur district,Andhra_pradesh
+AP-03,Chittoor district,Andhra_pradesh
+AP-04,Kadapa district,Andhra_pradesh
+AP-05,East Godavari district,Andhra_pradesh
+AP-07,Guntur district,Andhra_pradesh
+AP-16,Krishna district,Andhra_pradesh
+AP-18,Andhra Pradesh Police,Andhra_pradesh
+AP-21,Kurnool district,Andhra_pradesh
+AP-26,Nellore district,Andhra_pradesh
+AP-27,Prakasam district,Andhra_pradesh
+AP-30,Srikakulam district,Andhra_pradesh
+"AP-31,32,33,34",Visakhapatnam district,Andhra_pradesh
+AP-35,Vizianagaram district,Andhra_pradesh
+AP-37,West Godavari district,Andhra_pradesh
+AP-09-PX,State Police,Andhra_pradesh
+GA-01,Panaji ( North Goa district),Goa
+GA-02,Margao ( South Goa district),Goa
+GA-03,Mapusa,Goa
+GA-04,Bicholim,Goa
+GA-05,Ponda,Goa
+GA-06,Vasco,Goa
+GA-07,Panaji,Goa
+GA-08,Margao,Goa
+GA-09,Quepem,Goa
+GA-10,Canacona,Goa
+GA-11,Pernem,Goa
+GA-12,Dharbandora,Goa
+KL-01,Thiruvananthapuram,Kerala
+KL-02,Kollam,Kerala
+KL-03,Pathanamthitta,Kerala
+KL-04,Alappuzha,Kerala
+KL-05,Kottayam,Kerala
+KL-06,Idukki,Kerala
+KL-07,Ernakulam,Kerala
+KL-08,Thrissur,Kerala
+KL-09,Palakkad,Kerala
+KL-10,Malappuram,Kerala
+KL-11,Kozhikode,Kerala
+KL-12,Wayanad,Kerala
+KL-13,Kannur,Kerala
+KL-14,Kasargode,Kerala
+KL-15,Kerala,Kerala
+KL-16,Attingal,Kerala
+KL-17,Muvattupuzha,Kerala
+KL-18,Vadakara,Kerala
+KL-19,Parassala,Kerala
+KL-20,Neyyattinkara,Kerala
+KL-21,Nedumangad,Kerala
+KL-22,Kazhakkoottam,Kerala
+KL-23,Karunagapally,Kerala
+KL-24,Kottarakara,Kerala
+KL-25,Punalur,Kerala
+KL-26,Adoor,Kerala
+KL-27,Thiruvalla,Kerala
+KL-28,Mallappally,Kerala
+KL-29,Kayamkulam,Kerala
+KL-30,Chengannur,Kerala
+KL-31,Mavelikara,Kerala
+KL-32,Cherthala,Kerala
+KL-33,Changanassery,Kerala
+KL-34,Kanjirappally,Kerala
+KL-35,Pala,Kerala
+KL-36,Vaikom,Kerala
+KL-37,Vandiperiyar,Kerala
+KL-38,Thodupuzha,Kerala
+KL-39,Thripunithura,Kerala
+KL-40,Perumbavoor,Kerala
+KL-41,Aluva,Kerala
+KL-42,North Paravur,Kerala
+KL-43,Mattancherry,Kerala
+KL-44,Kothamangalam,Kerala
+KL-45,Irinjalakuda,Kerala
+KL-46,Guruvayur,Kerala
+KL-47,Kodungallur,Kerala
+KL-48,Wadakkancherry,Kerala
+KL-49,Alathur,Kerala
+KL-50,Mannarghat,Kerala
+KL-51,Ottappalam,Kerala
+KL-52,Pattambi,Kerala
+KL-53,Perinthalmanna,Kerala
+KL-54,Ponnani,Kerala
+KL-55,Tirur,Kerala
+KL-56,Koyilandi,Kerala
+KL-57,Koduvally,Kerala
+KL-58,Thalassery,Kerala
+KL-59,Taliparamba,Kerala
+KL-60,Kanhangad,Kerala
+KL-61,Kunnathur,Kerala
+KL-62,Ranni,Kerala
+KL-63,Angamaly,Kerala
+KL-64,Chalakkudy,Kerala
+KL-65,Thirurangadi,Kerala
+KL-66,Kuttanadu,Kerala
+KL-67,Uzhavoor,Kerala
+KL-68,Devikulam,Kerala
+KL-69,Udumbanchola,Kerala
+OD-01,Balasore,Odhisa
+OD-02,Bhubaneswar,Odhisa
+OD-03,Bolangir,Odhisa
+OD-04,Chandikhol,Odhisa
+OD-05,Cuttack,Odhisa
+OD-06,Dhenkanal,Odhisa
+OD-07,Ganjam,Odhisa
+OD-08,Kalahandi,Odhisa
+OD-09,Keonjhar,Odhisa
+OD-10,Koraput,Odhisa
+OD-11,Mayurbhanj,Odhisa
+OD-12,Phulabani Khandamal,Odhisa
+OD-13,Puri,Odhisa
+OD-14,Rourkela,Odhisa
+OD-15,Sambalpur,Odhisa
+OD-16,Sundergarh,Odhisa
+OD-17,Baragarh,Odhisa
+OD-18,Rayagada,Odhisa
+OD-19,Angul,Odhisa
+OD-20,Gajapati,Odhisa
+OD-21,Jagatsinghpur,Odhisa
+OD-22,Bhadrak,Odhisa
+OD-23,Jharsuguda,Odhisa
+OD-24,Nabarangpur,Odhisa
+OD-25,Nayagarh,Odhisa
+OD-26,Nuapada,Odhisa
+OD-27,Boudh,Odhisa
+OD-28,Debagarh,Odhisa
+OD-29,Kendrapara,Odhisa
+OD-30,Malkangiri,Odhisa
+OD-31,Sonepur,Odhisa
+OD-32,Bhanjanagar,Odhisa
+OD-33,Bhubaneswar-II,Odhisa
+OD-34,Jajpur,Odhisa
+OD-35,Talcher,Odhisa
+JK-01,Srinagar,Jammu&Kashmir
+JK-02,Jammu,Jammu&Kashmir
+JK-03,Anantnag,Jammu&Kashmir
+JK-04,Budgam,Jammu&Kashmir
+JK-05,Baramulla,Jammu&Kashmir
+JK-06,Doda,Jammu&Kashmir
+JK-08,Kathua,Jammu&Kashmir
+JK-09,Kupwara,Jammu&Kashmir
+JK-11,Rajouri,Jammu&Kashmir
+JK-12,Poonch,Jammu&Kashmir
+JK-13,Pulwama,Jammu&Kashmir
+JK-14,Udhampur,Jammu&Kashmir
+JK-15,Bandipora,Jammu&Kashmir
+JK-16,Ganderbal,Jammu&Kashmir
+JK-17,Kishtwar,Jammu&Kashmir
+JK-18,Kulgam,Jammu&Kashmir
+JK-19,Ramban,Jammu&Kashmir
+JK-20,Reasi,Jammu&Kashmir
+JK-21,Samba,Jammu&Kashmir
+JK-22,Shopian,Jammu&Kashmir
+KA-01,RTO Bengaluru (Central),Karnataka
+KA-02,RTO Bengaluru (West),Karnataka
+KA-03,RTO Bengaluru (East),Karnataka
+KA-04,RTO Bengaluru (North),Karnataka
+KA-05,RTO Bengaluru (South),Karnataka
+KA-06,RTO Tumakuru,Karnataka
+KA-07,RTO Kolar,Karnataka
+KA-08,"ARTO, K G F",Karnataka
+KA-09,RTO Mysuru (West),Karnataka
+KA-10,RTO Chamarajanagar,Karnataka
+KA-11,RTO Mandya,Karnataka
+KA-12,RTO Madikeri,Karnataka
+KA-13,RTO Hassan,Karnataka
+KA-15,ARTO Sagar,Karnataka
+KA-16,RTO Chitradurga,Karnataka
+KA-17,RTO Shivamogga,Karnataka
+KA-17,RTO Davanagere,Karnataka
+KA-18,RTO Chikkamagaluru,Karnataka
+KA-19,RTO Mangaluru,Karnataka
+KA-20,RTO Udupi,Karnataka
+KA-21,RTO Puttur,Karnataka
+KA-22,RTO Belagavi,Karnataka
+KA-23,RTO Chikkodi,Karnataka
+KA-24,ARTO Bailahongal,Karnataka
+KA-25,RTO Dharwad,Karnataka
+KA-26,RTO Gadag,Karnataka
+KA-27,RTO Haveri,Karnataka
+KA-28,RTO Vijayapura,Karnataka
+KA-29,RTO Bagalkote,Karnataka
+KA-30,RTO Karwar,Karnataka
+KA-31,RTO Sirsi,Karnataka
+KA-32,RTO Kalaburgi,Karnataka
+KA-33,RTO Yadagiri,Karnataka
+KA-34,RTO Bellari,Karnataka
+KA-35,RTO Hosapete,Karnataka
+KA-36,RTO Raichur,Karnataka
+KA-37,RTO Koppal,Karnataka
+KA-38,RTO Bidar,Karnataka
+KA-39,ARTO Bhalki,Karnataka
+KA-40,RTO Chickballapura,Karnataka
+KA-41,RTO Jnanabharathi,Karnataka
+KA-42,RTO Ramanagar,Karnataka
+KA-43,ARTO Devanahalli,Karnataka
+KA-44,ARTO Tiptur,Karnataka
+KA-45,ARTO Hunsur,Karnataka
+KA-46,ARTO Sakaleshpura,Karnataka
+KA-47,ARTO Honnavar,Karnataka
+KA-48,ARTO Jamkhandi,Karnataka
+KA-49,ARTO Gokak,Karnataka
+KA-50,RTO Yelahanka,Karnataka
+KA-51,RTO Electronic City,Karnataka
+KA-52,RTO Nelamangala,Karnataka
+KA-53,RTO Krishnarajapuram,Karnataka
+KA-54,ARTO Nagamangala,Karnataka
+KA-55,RTO Mysuru (East),Karnataka
+KA-56,ARTO Basavakalyana,Karnataka
+KA-57,"RTO,  A/R & STU, Bengaluru",Karnataka
+KA-58,"RTO Banashankari, Bengaluru",Karnataka
+KA-59,"RTO, Chandapura, Bengaluru",Karnataka
+KA-60,"RTO, R.T.Nagar, Bengaluru",Karnataka
+KA-61,"RTO, Marathalli, Bengaluru",Karnataka
+KA-62,"RTO, Surathkal, DakshinaKannada (Dist)",Karnataka
+KA-63,R.T.O Dharwad (East),Karnataka
+KA-64,"ARTO Madhugiri, Tumakuru (Dist.)",Karnataka
+KA-65,"ARTO Dandeli Uttara, Kannada (Dist)",Karnataka
+KA-66,ARTO Tarikere Chikkamagaluru,Karnataka
+KA-67,"ARTO,Chintamani, Chikkaballapur",Karnataka
+KA-68,ARTO Ranibennur Haveri,Karnataka
+KA-69,"ARTO, Ramadurga Belagavi ",Karnataka
+KA-70,ARTO Bantwala Dakshina Kannada,Karnataka

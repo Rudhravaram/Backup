@@ -1,0 +1,166 @@
+    Office No. 2, Gold Wings, 1st Floor, Above Darshan Tyres, Opp. Big Bazaar, Sinhgad Road, Pune – 411 030 Tele:
+                          (020) 24251225, Mob: 98220 21012, Email : kamalbiyani@gmail.com
+
+
+
+
+            Our Ref:                                   Insurers Ref
+            No. 15412/ICICI/1920                       Insured Name: AMPL Cleantech Pvt. Ltd.
+            Date                 14th July 2020        Policy No: 1003/138541330/02
+                                                       Claim No. FIR027827446
+                                                       Date of loss: 19th May 2020
+                                                       Date of survey: 30th May 2020
+
+
+    STRICTLY CONFIDENTIAL AND PRIVILEGED FOR THE USE OF THE INSURERS AND
+                                       THEIR LEGAL ADVISORS ONLY
+
+Survey report regarding claim preferred by M/s. AMPL Cleantech private Limited, for reported loss/damage
+                            to their property insured under Industrial All Risk Policy
+
+
+
+
+        POLICY PARTICULARS:
+        INSURED                                    :    AMPL cleantech Pvt. ltd.,
+                                                        survey no 381/4/2 , Village Richha,
+                                                        Tehsil alote Ratlam Madhya Pradesh
+                                                        pin - 457114
+        INSURERS                                        ICICI Lombard Gen. Insurance Co. Ltd., 3rd
+                                                        Floor, Block B, JK Millenium Centre, 46D,
+                                                        Chowringhee Road, Kolkata-700071
+        POLICY NO                                  :    1003/138541330/02
+        POLICY PERIOD                                   From: 18/10/2019 00.00
+                                                        To: 17/10/2020 23:59 Hrs.
+        TYPE OF POLICY                             :    Industrial Al risk policy
+        INSURED’S BUSINESS/ TRADE:                 :    Electric Generation Stations - Solar Power
+
+1
+                                             Plant
+    AFFECTED ITEM                        :   IGBT section Inverter
+                                             Make: Schneider Electric
+                                             Rating: PB15 B & MB 15-VP
+                                             Serial No: 3D657479G001 & 3D657476G006
+    RISK LOCATION                            AMPL Cleantech Pvt Ltd ,
+                                             10 MW AMPL Power plant, Richa Village, Alote
+                                             Taluka, Ratlam Dist. Madhyapradesh-457114.
+
+
+    Insurers have appointed us on 26th May 2020 for the survey. We could not carry out
+    physical survey for reported loss due to ongoing Covid-19 country wide lock-
+    down. However, virtual survey was carried out by us over phone on 30th May 2020.
+    During our virtual survey Mr. Ramesh Atha have communicated with us. In
+    continuation, the Insured were requested to submit the requisite documents. Now
+    as per estimate provided by Insured claim falls below excess hence, we are issuing
+    our Nil claim report.
+
+
+    INCIDENT
+    During our discussion Mr. Ramesh Atha have informed us about incident and
+    thereafter written narration was also provided to us which reads as under:
+    Quote
+    “Plant – AMPL Cleantech Pvt Ltd
+    Address – 10 MW AMPL Power plant, Richa Village, Alote Taluka, Ratlam Dist.
+    Madhyapradesh-457114
+    Commission Date – 12-07-2017
+    Capacity- 10 MW AC
+    Incident Date – 19/05/2020
+    Plant DC Capacity down – 812 KWp (3384 no’s PV modules connected)
+    Break down Time – 07:12 AM
+    Start Time – Still Under breakdown
+    Expected Restoration – Order placed to OEM, will get delivery at site within 2 to3
+    days than after inverter will take place
+    started.
+    Equipment Involve – Inverter Power Measurement card failure (IGBT Section
+    inverter)
+
+
+2
+    Failure Equipment Details -
+    Make: Schneider Electric
+    Rating: PB15 B &amp; MB 15-VP
+    Serial No: 3D657479G001 &amp; 3D657476G006
+    Our inverter no.5 which capacity is 680 KW and it is connected of 3384 no’s solar
+    panel which is produced energy is every days 4440 kwh/per days as per this
+    current month radiation condition, on dated 19th May-20, site operation and
+    maintenance team observed in SCADA system (event not recorded on Scada
+    history) that inverter has been tripped at 7:12 AM , Error code of inverter is 2616
+    which is related to ground fault (ground fault or MOV )Then after checked all
+    DCB’s found abnormal .Then taken trial inverter was showing again error 6430
+    (VDC not stable),then further investigation it is observed that IGBT section
+    measurement & power card found failure due to flashover in bus bar section & it
+    is fully damaged. (Photos enclosed)”.
+    Unquote
+    Incident narration provided by Insured is enclosed with the report.
+
+
+    CAUSE OF DAMAGE: Reported machinery breakdown.
+
+
+    NATURE & EXTENT OF DAMAGE
+    We have carried out virtual survey on 30th May 2020. The video call was arranged
+    & the inverter was shown to us at AMPL Cleantech Pvt Ltd located at 10
+    MW AMPL Power plant, Richa Village, Alote Taluka, Ratlam Dist. Madhyapradesh-
+    pin 457114. Subject inverter was observed in dead condition and internal IGBT
+    cards were found with burnt marks. It was informed that new IGBT cards are
+    ordered & are dispatched from Bangalore. Further Insured have replaced the
+    affected IGBT cards and have provided us the repair estimate of Rs.758032.00
+    towards material and service with supporting invoices.
+
+
+    INSURED’S CLAIM VIS-À-VIS ADMISSIBILITY
+    Loss location & operated peril are covered. The policy is effective on date of loss.
+    However, the estimated loss works out in tune of Rs. 758032.00 & the policy excess
+    is Rs.10 lacs. Thus, loss falls below excess and amount payable would be nil.
+
+
+
+
+3
+          ASSESSMENT OF LOSS
+          A stated above claim falls below excess. The insured had submitted us the repair
+          estimate. Supporting invoices/proforma invoices were provided by Insured. We
+          have, assessed the loss on the basis of the same.
+
+
+          The tentative assessment works out to Rs. NIL. The detailed working of the
+          assessment is attached as Annexure to the report.
+
+
+          CONCLUSION
+          The estimated loss is in tune of Rs. 758032.00 & the applicable policy excess is Rs.
+          10 lacs. Thus, loss falls below excess. Our observations were conveyed to the
+          Insured verbally as well as vide our mail dated 9th July 2020. Now as advised by
+          Insurers, we are closing our file as ‘Nil CLAIM’.
+
+
+          This report is issued without prejudice & subject to the terms, conditions and
+          warranties to the policy issued to & held by the insured.
+
+
+          DECLARATION
+          We hereby declare that we have no interest in the subject matter in question and
+          reported as above. We are neither related to the Insured nor the business either
+          by blood, business or share-holding of whatsoever nature.
+
+
+
+
+    (K. R. BIYANI)
+    KAMAL BIYANI ASSOCIATES
+
+    License No. SLA 34365 valid till 27.11.2022
+
+     Encloser:
+
+     1. Tentative assessment of loss.
+     2. Incident narration provided by Insured.
+     3. Estimate provided by Insured.
+     4. Supporting invoices/proforma invoices.
+     5. Closer mail sent to Insured.
+
+
+
+
+4
+

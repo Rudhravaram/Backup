@@ -1,0 +1,209 @@
+{
+	"info": {
+		"_postman_id": "f1500a6b-6e2e-40c7-abb8-207f2febb8ab",
+		"name": "ICICI Medical",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "case_start",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "MEMBER_ID",
+							"value": "123",
+							"type": "text"
+						},
+						{
+							"key": "POLICY_NAME",
+							"value": "sdjchgjghd",
+							"type": "text"
+						},
+						{
+							"key": "POLICY_NUMBER",
+							"value": "afff",
+							"type": "text"
+						},
+						{
+							"key": "FLAG",
+							"value": "sdv",
+							"type": "text"
+						},
+						{
+							"key": "NO_OF_DOCUMENTS",
+							"value": "2",
+							"type": "text"
+						},
+						{
+							"key": "CLAIMANT_NAME",
+							"value": "adc",
+							"type": "text"
+						},
+						{
+							"key": "CLAIM_TYPE",
+							"value": "asf",
+							"type": "text"
+						},
+						{
+							"key": "HOSPITAL_ID",
+							"value": "12swd",
+							"type": "text"
+						},
+						{
+							"key": "AL_NUMBER",
+							"value": "asfasf",
+							"type": "text"
+						},
+						{
+							"key": "POLICY_TYPE",
+							"value": "sdsvd",
+							"type": "text"
+						},
+						{
+							"key": "PRODUCT_CODE",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "SUB_PRODUCT_CODE",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "NEW_IRDA_NP",
+							"value": "adedae",
+							"type": "text"
+						},
+						{
+							"key": "BILL_ENTRY_REQUIRED",
+							"value": "sddf",
+							"type": "text"
+						},
+						{
+							"key": "APPLY_PROPORTIONATE",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "ROOM_INC",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "NURSING_INC",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "MANUAL_PROPORTIONATE",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "NORMAL_RR_ELIGIBILITY",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "ICU_ELIGIBILITY",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "MANUAL_COPAY",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "DEDUCTIBLES",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "SUB_LIMIT",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "X-Fields",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://iailcongnitiveservices.westindia.cloudapp.azure.com/icici/v1/case_start/controller",
+					"protocol": "http",
+					"host": [
+						"iailcongnitiveservices",
+						"westindia",
+						"cloudapp",
+						"azure",
+						"com"
+					],
+					"path": [
+						"icici",
+						"v1",
+						"case_start",
+						"controller"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "upload",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "iAssist_Case_id",
+							"value": "MED18082021090817qRvqW",
+							"type": "text"
+						},
+						{
+							"key": "extension",
+							"value": "asdcc",
+							"type": "text"
+						},
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/iaila/OneDrive/Desktop/Files_for_ref/2021215 Allianz Global Corporate.pdf"
+						},
+						{
+							"key": "X-Fields",
+							"value": "sad",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://iailcongnitiveservices.westindia.cloudapp.azure.com/icici/v1/upload/controller",
+					"protocol": "http",
+					"host": [
+						"iailcongnitiveservices",
+						"westindia",
+						"cloudapp",
+						"azure",
+						"com"
+					],
+					"path": [
+						"icici",
+						"v1",
+						"upload",
+						"controller"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,679 @@
+ PROFESSIONAL INSURANCE SURVEYORS No.2, 2nd Floor,
+ AND LOSS ASSESSORS PVT. LTD.         1st Cross Street,
+                                      Sastri Nagar, Adyar,
+                                      Chennai – 600 020.
+ SURVEYORS & LOSS ASSESSORS
+ (Lic. No. SLA-72426/Exp. 10.11.2019) Tel: 044 - 2446 6781 / 8142 / 8589
+                                      Mobile: +91 98400 71266
+                                      E-mail: srivatsan@psla.in
+
+Report No. 035/FINAL/ICICIL/2018                                         20th April, 2019
+
+
+                                FINAL SURVEY REPORT
+
+                                 [ CLAIM NO: GEN000249753]
+
+
+Pursuant to instructions received from ICICI Lombard General Insurance Co.Ltd.,Mumbai, we, the
+surveyors from Professional Insurance Surveyors & Loss Assessors Pvt. Ltd., visited M/S Seutic
+Pharma Pvt Ltd. Plot No: 42/A, Sy. No: 308, SVCIEIDA, Jeedimetla, Hyderabad – 500 055, on 28-
+02-2018 and carried out the survey of the stocks of Glenmark Pharmaceuticals Ltd., which were
+reported to have got damaged by fire.
+
+In this connection, we have already submitted our Initial Loss Advice, ILA Ref:
+No:035/ILA/ICICIL/2018 dt: 03-03-2018.
+
+We now present our FINAL SURVEY REPORTwith LOSS ASSESSMENT as under.
+
+
+
+I.     INSURANCE PARTICULARS:
+
+        1. The Insurer                   ICICI Lombard General Insurance Co. Ltd.
+                                         Mumbai
+        2. The Insured                   Glenmark Pharmaceuticals Ltd.
+                                         Glenmark House, Andheri (East), Mumbai
+        3. Policy Type                   IAR Policy
+        4. Policy No:                    1005/130283068/00/000
+        5. Policy Period                 01 April, 2017 to 31 March, 2018
+        6. Location of Risk              M/S Seutic Pharma Pvt. Ltd.,
+                              Plot No: 42/A, Sy. No: 308, SVCIEIDA,
+                              Jeedimetla, Hyderabad – 500 055
+7. Insured’s Business/Trade   Stocks/Stock-in-process
+8. Sum Insured                              Description                        Rs
+Section-I (Material Damage)   Building                                     4,873,500,000
+                              P&F                                            499,900,000
+                              Furniture Fixtures                             640,500,000
+                              Plant & Machinery                          10,093,000,000
+                              Stocks + SIP                               13,413,500,000
+                              Others                                       1,349,300,000
+                              Total:                                     30,869,700,000
+                              FLEXA                                      30,369,800,000
+                              STFI                                       30,369,800,000
+                              EQ                                         30,869,700,000
+Machinery Break Down(MBD) Rs. 10,093,000,000/=
+Fire (LOP) Indemnity (12      Rs. 100,000,000/=
+months)
+Add-On Covers                     Earthquake Inclusion
+                                  Omission to Insure, additions etc
+                                  Capital additions (automatically held covered upto
+                                   15% of Sum Insured)
+                                  Escalation @ 10% of Sum Insured
+                                  Reinstatement Value Clause – other than stocks
+                                  85% average condition clause
+                                  Floater Clause for stock component only
+                                  Leakage and contamination cover – upto Rs.10 Crores
+                                   any one loss
+                                  Spoilage Material damage Clause – 5 Crores
+                                  Temporary Removal of Stocks
+                                  Stocks at unspecified CMU and Third Party
+                                   Manufacturing Locations – Floater Basis
+
+
+
+
+                                     2
+                   Stocks at CMU and Third Party Manufacturing
+                    Locations – Floater Basis
+                   Start-up Expenses –upto 10 Crores any one location
+                   Removal of Debris (in excess of 1% of claim amount)
+                    Rs. 20,000,000/=
+                   Impact Damage due to Insureds own Rail/Road
+                    vehicles etc.
+                   72 hours Clause
+                   Automatic Reinstatement Clause upto 10%
+                   Local Authorities Clause
+                   Goods held in trust Clause – limited to 5 crores
+                   Claim preparation clause – Rs.1 Crore
+                   On Account Payment Clause
+                   Designation of Property Clause
+                   Nominated Adjuster Clause
+                   Agreed Bank Clause – Stocks at all locations across
+                    India are hypothecated to Bank of India & Assets at
+                    Nasik Satpur and R&D Sinnar are mortgaged to bank
+                    of India
+9. Deductible   Policies having Sum Insured upto INR 100 Crore per
+                location PD & BI
+                Material Damage = 5% of claim amount subject to
+                minimum of Rs. 5 Lakhs
+                Business Interruption (FLOP) = 7 Days Standard Gross
+                Profit
+
+
+                Policies having Sum Insured above INR 100 Crore and
+                up to INR 1500 Crore per location PD & BI
+                Material Damage = 5% of claim amount subject to
+                minimum of Rs. 10 Lakhs
+                Business Interruption (FLOP) = 7 Days Standard Gross
+                Profit
+
+
+                     3
+                                               Policies having Sum Insured above INR 1500 Crore
+                                               and up to INR 2500 Crore per location PD & BI
+                                               Material Damage = 5% of claim amount subject to
+                                               minimum of Rs. 25 Lakhs
+                                               Business Interruption (FLOP) = 7 Days Standard Gross
+                                               Profit.
+
+
+
+II.    BACKGROUND:
+
+       Glenmark      Pharmaceuticals      is       a       pharmaceutical   company   headquartered
+       in Mumbai, India that was founded in 1977 by Gracias Saldanha as a generic drug and
+       active pharmaceutical ingredient manufacturer. The company initially sold its products in
+       India, Russia, and Africa. The company went public in India in 1999, and used some of the
+       proceeds to build its first research facility. By 2008 Glenmark was the fifth-biggest
+       pharmaceutical company in India.
+
+       M/S Seutic Pharma Pvt. Ltd., at Jeedimetla, Hyderabad was a third-party manufacturer of
+       pharmaceutical intermediates for Glenmark Pharmaceuticals Ltd., based on raw materials
+       supplied by the latter. The intermediate products manufactured at Seutic Pharma were
+       dispatched back to Glenmark Pharma along with the details of raw materials received and
+       the receipts/challans.
+
+       Seutic Pharma Pvt. Ltd., was started in the year 2104, by Dr.VVSV Prasad, the Managing
+       Director and sole Proprietor of the Company. The factory, land and buildings, were taken on
+       lease from M/S Prince Laboratories, and Seutic Pharma had installed the Reactors and other
+       manufacturing facilities required for production of pharmaceutical products.
+
+
+
+III.   INSURED’S CLAIM:
+
+       The Insured, vide their email dt: 23-07-2018 have preferred a Final Claim of
+       Rs.9,49,85,984/= towards stocks held at the factory of M/S Seutic Pharma Ltd, which were
+       damaged by fire. Copy of the Final Claim Statement and supporting documents are attached
+       as Enclosure-1. Breakup as shown below:
+
+
+
+                                                       4
+                                                                                        Amount
+                                                                    GST + CD
+       No             Description               Basic Cost                             (including
+                                                                     +Freight
+                                                                                          GST)
+                                                     Rs                 Rs                 Rs
+        1    Stocks sent from Kurkumbh             24,12,718                 68,697      24,81,415
+             (Plant Code – 1203)
+        2    Stocks sent from Mohol              7,65,58,296           1,59,46,273     9,25,04,569
+             (Plant Code-1204)
+        3    Total:                              7,89,71,014           1,60,14,970     9,49,85,984
+
+
+      The Insured transferred to M/S Seutic Pharma, stocks of intermediate products
+      manufactured at their two Units, Kurkumbh Unit (Plant Code – 1203) and Mohol Unit
+      (Code No: 1204) for processing . Hence, the Claim submitted by the Insured is shown on
+      the basis of stocks received from these two plants.
+
+
+
+IV.   OCCURRENCE:
+
+      It is reported that the fire in Seutic Pharama Ltd. took place on 23-02-2018 (Friday)
+      morning, around 6:30 am, inside Production Block “A”. The plant operators immediately
+      tried to extinguish the fire with chemical powder and foam type portable fire extinguishers
+      which were readily available there. But the fire could not be controlled and it started
+      spreading very fast, and engulfed the entire factory building. In the process of firefighting, it
+      is reported that, around 7 operators got injured and were admitted in the hospital..
+      Copy of the Statement submitted by Dr. VVSV Prasad (Proprietor) and Ch. Venkat Reddy,
+      who were present at the site, is attached as Enclosure-2 to this report
+
+
+
+V.    OUR INSPECTION AND OBSERVATIONS:
+
+      We visited M/S Seutic Phrama Pvt. Ltd for the first time on 28-02-2018 and carried out
+      survey of the damages caused by fire. Mr. VVSV Prasad (Proprietor) and Mr. Kanaka Raju
+      – Manager Commercial were present during the survey.
+
+
+
+
+                                                 5
+      We visited the factory once again on 10-08-2018 along with the Surveyors of Associated
+      Surveyors & Consultants, who were appointed for Forensic Accounting & Analysis of the
+      damaged stocks.
+
+      In between, we had a meeting on 15-05-2018 with the representatives of the Insured,
+      Glenmark Pharmaceuticals Ltd., at their Corporate Office at Mumbai. The meeting was
+      attended by the Brokers, Marsh Insurance Brokers and the executives from the Insurance
+      Company also.
+
+
+
+
+VI.   DESCRIPTION OF THE RISK:
+
+      Function of M/S Seutic Pharmaceuticals:
+
+      The fire damaged stocks were stored at M/S Seutic Pharma Pvt Ltd., Jeedimetla, Hyderabad,
+      one of the third party manufacturer of the Insured. These stocks were supplied from
+      Glenmark Pharmaceuticals two manufacturing units, 1.) Kurkumbh Unit (Plant Code: 1203)
+      and 2.) Mohol Unit (Code No: 1204).
+
+      At M/S Seutic Pharma Ltd, the process of synthesis of the intermediates took place in
+      several smaller batches. Hence, the entire batch of raw materials received from Glenmark
+      were stored inside the Raw Material Godown. Once the conversion of each batch into the
+      desired intermediate product was completed, they were dispatched back to           Glenmark
+      Pharmaceuticals for further processing, along with receipts/challans etc. in support of the
+      raw materials stocks received from them.
+
+
+      Description of Factory Building:
+
+      A layout drawing of the factory building, showing the location of origin of fire, is attached
+      as Enclosure-3
+
+      The factory building M/S Seutic Pharma were taken on lease in 2014 from their original
+      owners, M/S Prince Laboratories Ltd. Seutic Pharma then installed the reactors and other
+      vessels/equipments for the manufacturing process.
+
+
+
+
+                                                 6
+       The factory building was a RCC framed structure, divided into two main blocks/sections.
+          The front section/block consisted of ground floor and 2 floors above - first floor &
+           second floor.
+          The Production Blocks “A” & “B” were located in the rear section of the building. The
+           Production Section had two floors, ground floor and first floor,
+          In Block “A” there were 9 reactors, while Block “B” there were 5 reactors.
+
+       The Raw Material Godown was located in the Ground Floor of the front section. The stocks
+       received from Glenmark Pharma, which were damaged by fire, were stored in this godown.
+
+       The Finished Products to be dispatched to Glenmark were stored in the First Floor of the
+       front section – viz. Finished Products Godown. The floor above Finished Product Godown
+       was used by Quality Control/Quality Assurance Departments.
+
+
+       On the left side of M/S Seutic Pharma, there was another pharmaceutical company, Vijaya
+       Shree Pharma. The two factories had a common compound wall.
+
+
+       M/S Seutic Pharma Ltd had around 100 employees in its pay-roll, including permanent
+       employees and contract workers. The factory worked round the clock in 3 shift basis ( 6am
+       – 2 pm, 2pm – 10 pm & 10 pm – 6 am).
+
+
+       Photographs taken during our survey is attached with this report as Enclosure –4.
+
+
+
+VII.   RAW MATERIAL STOCKS DAMAGED BY FIRE:
+
+
+       As explained earlier, the raw material stocks of the Insured which were kept at M/S Seutic
+       Parma Ltd. were products manufactured at their two Units at Kurkumbh Unit (Plant Code –
+       1203) and Mohol Unit (Code No: 1204). These chemicals were mainly hydrocarbon
+       products which were highly flammable and combustible in nature. We have attached the list
+       of raw material stocks damaged by fire as Enclosure-5, along with their properties and
+       nature of packing.
+
+
+
+
+                                                 7
+VIII. OCCURRENCE OF FIRE:
+
+
+      Based on the discussions we had with Dr. VVSV Prasad, the Proprietor, we could gather
+      the following information regarding the occurrence of fire:
+
+
+      On 23-02-2018 around 06:35 am he received a phone call from Mr. Srikanth, Electrician,
+      informing him that a fire had broken out in the factory. It was shift change over time. The
+      night shift operators (10 pm – 6 am) had finished their work and were in the process of
+      handing over to the morning shift (6am – 2 pm) personnel who had just arrived.
+
+
+     There were around 15 operators inside the production block, but since most of them had
+     been injured and hospitalized, they were unable to get any reports or statements regarding
+     the origin of fire.
+
+
+     We have attached a statement submitted by Seutic Pharma, as Enclosure-6, which provides
+     details of the reactions which were in progress in various reactors of the Production Block,
+     as at the time of occurrence of fire.
+
+
+     The only information we could gather was that, initially, flames were seen between Reactors
+     R-2 & R-3. where synthesis were in progress. The reactors contained highly flammable
+     hydrocarbon solvent toluene. Toluene can easily get ignited and catch fire if the vapours get
+     released to the atmosphere due to sudden failure or damage to some fittings or flanges. As
+     the flammable vapours spread to the surrounding areas the fire can also easily spread and
+     engulf the whole factory.
+
+
+      On noticing the fire, the operators immediately started fighting the fire with potable foam
+      and chemical fire extinguishers, readily available at the site. They also used fire water
+      drawn from the adjacent chemical factory, Vijay Shree Pharmaceuticals. But the fire could
+      not be controlled and it started spreading fast. In the meantime, within 15 to 20 mts several
+      Fire Tenders arrived from the nearby Jeedimetla Industrial Area Fire Station and several
+      nearby areas and joined the firefighting operations.
+
+
+                                               8
+      The fire in Seutic Pharma spread to the adjacent factory, Vijay Shree Pharma also and
+      damaged large portions of the factory shed and equipments. Copy of the article published
+      in the Indian Express News Paper is attached as Enclosure-7.
+
+
+
+IX.   EXTENT OF DAMAGES:
+
+         The Seutic Pharma factory building was totally gutted by the fire.
+         All the Raw Material Stocks of Glenmark Pharmaceuticals stored inside the godown
+          were totally burnt and destroyed. There were no remains or salvageable material inside
+          the godown.
+         The finished products kept in the first floor were also totally burnt.
+         The building, the beams columns and ceiling of the entire building were totally damaged
+          by the intense heat generated by the fire, that had raged for several hours.
+         Several sections of the side walls had collapsed and the plastering from the celling and
+          walls had fallen down exposing the internal reinforcement rods of the RCC structures.
+         Several drums of chemicals kept outside the factory building, in the open yard, adjacent
+          to the compound wall of Vijay Shree Pharma were found burnt and de-shaped. The
+          drums, 200 litre capacity metal drums and also Plastic Carboys.
+         Sintex Tanks and FRP Tanks erected for storage of chemicals and acids, along with
+          pumps and accessories were burnt and melted.
+         One lorry which had brought Hydrochloric Acid to the plant, and was parked inside the
+          factory premises at the time of fire was totally burnt and gutted.
+
+
+
+X.    SEUTIC PHARMACEUTICALS FACTORY DETAILS:
+
+      M/S Seutic Pharma is owned by Dr. VVSV Prasad. The factory was started in the year
+      2014. The present location and building were leased by Seutic Pharma from their original
+      owners, M/S Prince Laboratories Pvt. Ltd., and they installed the reactors and other
+      vessels/equipments for the manufacturing process.
+
+      The Copy of the Original Factory Registration License No: Lr No: A/301/2015 dt:
+      11/01/2016 issued by The Govt. of Telengana, Factories Department to M/S Prince
+
+
+
+
+                                                  9
+      Laboratories Pvt. Ltd and the transfer of ownership of the factory to Dr. VVSV Prasad of
+      M/S Secutic Pharmaceutical Pvt. Ltd is attached as Enclosure-8.
+
+
+      Copy of the Amendment Licence – Ref: AMMENDMENT-2015 dt: 11-01-2016 is attached
+      as Enclosure-9
+
+
+      Copy of Central Excise & GST certificate issued to M/S Seutic Pharmaceuticals Pvt. Ltd is
+      attached as Enclosure-10
+
+
+
+
+XI.   COVERAGE UNDER IAR POLICY:
+
+      Insurance Cover towards Stocks of Glenmark Pharmaceuticals Ltd:
+
+      The IAR policy held by the Insured covered only the stocks of Glenmark Pharmaceuticals
+      stored at M/S Seutic Pharmaceuticals Godown. The policy covered stocks held at 28 API
+      locations against a Sum Insured of Rs. 365 Crores, on Floater Basis.
+
+      In Annexure-2, attached to the policy schedule, the risk location of Seutic Pharma Pvt. Ltd.,
+      Plot No: 42/A, Sr. No: 308, SVCIE IDA, Jeedimetla, Hydewrabad- 500 055 has been
+      included.
+
+      Insurance Cover of Seutic Pharmaceuticals Pvt. Ltd:
+
+      M/S Seutic Pharmaceuticals Pvt. Ltd., have obtained a separate Standard Fire & Special
+      Perils Insurance Policy, from National Insurance Co. Ltd., Secunderabad to cover their
+      assets in the factory.
+
+      The details of this SFSP Policy are as below:
+
+        1     Insurer                         National Insurance Co. Ltd.
+                                              Secunderabad Division II, Fourth Floor,
+                                              414 to 416, Swapnlok Complex,
+                                              Sarojini Devi Road, Secunderabad,
+                                              Dist.: Hyderabad, Andhra Pradesh - 500003
+
+
+
+                                               10
+         2    Insured                       M/s Seutic Pharma Pvt. Ltd.
+                                            Plot No. 42/A, SY No.308, S.V. Co-op Industrial
+                                            Estate, Jeedimetla, HYD, City: Hyderabad,
+                                            Telangana – 500055
+         3    Type of Policy                Standard Fire & Special Perils Policy
+         4    Policy No:                    551200111710000202
+         5    Validity                      08/09/2017 to 07/09/2018
+         6    Location of Risk              Plot No. 42/A, SY No., S.V. Co-op Industrial
+                                            Estate, Jeedimetla, Hyderabad,
+                                            Telangana – 500055
+         7    Description of Risk Covered   Chemical           Manufacturing           (others),
+                                            Pharmaceuticals, Toiletry products, Adhesive
+                                            film Mfg. Units not using solvent below 320C
+                                            F.P., Section – IV – Industrial Manufacturing
+                                            Risk
+         8    Policy Sum Insured                                               Sum Insured
+                                                                                      Rs
+                                            Plant & Machinery,                      3,80,00,000
+                                            Accessories, Lab Equipment,
+                                            FFF, Electrical Installations
+                                            Stocks:
+                                            Raw Materials                           1,50,00,000
+                                            Semi Finished Goods                     3,20,00,000
+                                            Finished Goods                          1,30,00,000
+                                            Total Sum Insured                       9,80,00,000
+         9    Financier Name                Andhra Bank, Sultan Bazar Branch
+        10    Policy Excess                 For AOG and Non-AOG Perils
+                                            Maximum Rs. 10,000.00
+                                            For Other Claims
+                                            Maximum Rs. 10,000.00
+
+
+XII.   APPOINTMENT OF FORENSIC ACCOUNTANTS:
+
+       The Surveyors, in consultation with the underwriters, vide their email dt: 11-07-2018,
+       appointed Mr. Arun Gupta, Chartered Accountants from Associated Surveyors &
+
+
+
+                                             11
+     Consultants, New Delhi to carryout forensic accounting and audit of the claim towards
+     stocks of the Insured, Glenmark Pharma, lying at Seutic Phramaceuticals Pvt. Ltd.
+     Jeedimetla, as at the time of fire, Copy of the Forensic Accounting & Analysis Report, Ref
+     No: ICICI/F/2737 dt: 15-04-2019, submitted by Associated Surveyors & Consultants is
+     attached as Enclosure-11.
+
+
+
+
+XIII. ADEQUACY OF SUM INSURED:
+
+     Based on the analysis carried out by the Forensic Accounting & Analysis Report ( refer para
+     9.00) it was found that the total value of stocks, belonging to Glenmark Pharmaceuticals Ltd
+     held at the time of fire M/S Seutic Pharma Ltd, Jeedimetla were as below:
+
+
+      No:       Description            Basic Value              GST (Taxes)           Total Value
+                                       Rs. (Crores)             Rs. (Crores)          Rs (Crores)
+        1     Stocks                              304.35                   44.02            348.37
+        2     WIP                                    18.95                   2.74            21.69
+        3     Total:                              323.30                   46.76            370.06
+
+
+     Glenmark Pharmaceuticals had submitted duly certified Stock Statements for all the 28
+     locations covered in the policy on floater basis. They had also submitted CA Certified stock
+     statements for all the locations in support of the stock held on the date of loss.
+
+     Based on the verifications of the stocks and the discussions held with the Insured, the
+     Forensic Accounting Surveyors had found that around 25% of the stocks held at the above
+     locations were obsolete or dead stocks. This was agreed to by the Insured also.
+
+     Thus, it was concluded that even if 5% of the cost was applied towards obsolete and dead
+     stocks, (other than the affected location) then the net overall value of stocks held (including
+     the affected location) on the date of loss will fall within the Policy Sum Insured for Stocks
+     Rs. 330/= Crores and the Sum Insured for WIP, Rs. 35/= Crores on floater basis. Hence, it
+     was concluded that the cover provided under the IAR policy towards Stocks and WIP held
+     at 28 locations, were adequate and there is no under insurance applicable.
+
+
+
+                                                12
+XIV. SALVAGE:
+
+      The stocks held by the Insured consisted mainly of hydrocarbon compounds and solvents
+      which were highly combustible/flammable in nature. During the fire all the stocks of the
+      Insured were totally burnt. Hence, in our loss assessment, the Salvage has been considered
+      as NIL.
+
+
+
+XV.   POLICY EXCESS:
+
+      As per the IAR policy issued to and held by the Insured, the deductible has been considered
+      as 5% of the Claim Amount.
+
+
+
+XVI. LOSS ASSESSMENT:
+
+      Kindly refer to the copy of the Forensic Accounting & Analysis Report, Ref No:
+      ICICI/F/2737 dt: 15-04-2019, of Associated Surveyors & Consultants attached to this report
+      for details of the Loss Assessment of fire damaged stocks.
+
+
+      Deduction towards variation in Quantity Claimed:
+      During the course of verification of the stocks carried out by the Forensic Audit Surveyors,
+      (Please refer to para. 8.04 of the Forensic Audit Report) it was found that even though some
+      stock items were already dispatched from Glenmark Pharmaceuticals, their receipts were not
+      entered in the SAP records M/S Seutic Pharma Ltd, Similar errors were found in the
+      materials dispatched from M/S Seutic Pharma also. During discussions with the Insured,
+      they informed that in some cases there could be a time lag in physical delivery of the
+      material and actual entry in SAP records due to standard operating procedures (SOP) and
+      later on, the insured also provided copy of SOP. In order to account for such variations in
+      stock quantity claimed by the Insured, in our loss assessment, we have deducted 2% from
+      the gross quantity of loss assessed.
+
+      Claim towards Excise Duty /VAT/GST & other taxes:
+      As the stocks were totally burnt and could not be used for their intended purpose, the
+      Insured have claimed the cost of stocks inclusive of Excise Duty, GST and other Taxes.
+
+
+
+
+                                               13
+From the Forensic Accounting Report it could be gathered that Insured have also submitted
+copies of GSTR-3B for December, 2018 along with workings of CENAVT /GST reversal.
+Hence, while working out the value of damaged stocks due consideration has been given to
+the above reversal.
+
+Deduction towards Non Moving/Obsolete Stocks:
+From the total cost of damaged stocks arrived at, suitable deduction towards non-
+moving/obsolete stocks has been made. This has been explained in detail, item wise, in the
+Forensic Accounting & Analysis Report submitted by Mr. Arun Gupta, Chartered
+Accountants.
+
+Since the Insured have preferred their claim, based on the value of stocks supplied from
+their Kurkumbh and Mahol Units, we have also shown the loss assessment in the same
+basis. Break-up details of Kurkumbh Unit & Mahol Unit, are as shown below:
+
+Loss Assessment for Kurkumbh Unit (Plant Code-1203)
+
+               Description           As Claimed (Rs.)      Assessed Loss (Rs.)
+  1    Total Amount Claimed                   24,81,415
+  2    Raw Materials                                                 19,31,150
+  3    Semi-Finished Goods                                                  NIL
+  4    Recovered Materials                                                  NIL
+  5    By Products                                                          NIL
+  6    Total                                  24,81,415              19,31,150
+
+
+Loss Assessment for Mohol Unit (Plant Code-1204)
+
+               Description           As Claimed (Rs.)      Assessed Loss (Rs.)
+                                             Rs                    Rs
+  1    Total Amount Claimed                  9,25,04,569
+  2    Raw Materials                                               7,08,81,031
+  3    Semi-Finished Goods                                              4,31,387
+  4    Recovered Materials                                               15,296
+  5    By Products                                                      2,87,614
+  6    Total                                 9,25,04,569           7,16,15,328
+
+
+
+                                        14
+XVII. SUMMARY OF FINAL LOSS ASSESSMENT:
+
+                                                       As Claimed        Assessed
+       No                 Description
+                                                           Rs              Loss
+       a)    Kurkhumb Unit (Plant Code- 1203)             24,81,415        19,31,150
+       b)    Mohol Unit (Plant Code – 1204)             9,25,04,569      7,16,15,328
+             Total:                                     9,49,85,984      7,35,46,478
+             LESS: Deduction towards variation                             14,70,930
+             in Quantity @ 2%
+             LESS: Salvage                                                        NIL
+             LESS: Under Insurance                                                NIL
+             Assessed    Loss   (Prior to    Policy                      7,20,75,548
+             Excess)
+             LESS: Policy Excess @ 5%                                      36,03,777
+             Net Claim Payable                                           6,84,71,771
+
+
+
+
+XVIII. CAUSE OF LOSS:
+
+     As brought forth earlier, the damages to the stocks of Glenmak Pharmaceuticals stored at
+     the factory premises of their third party manufacturer, M/S Seutic Phramaceuticals Pvt. Ltd
+     took place due to fire, that suddenly originated in the Production Hall of the factory on 23-
+     02-2018 around 06:35 am
+
+     It is reported that the flames were initially seen between Reactors R-2 & R-3. where
+     synthesis of intermediate drugs were in progress. The reactors contained highly flammable
+     hydrocarbon solvent toluene.
+
+     It is possible that there could have been a sudden release of highly flammable vapours of
+     toluene to the atmosphere from either of these reactors, due to sudden failure or damage to
+     some fittings or flanges, which got spread and ignited. The fire engulfed the entire
+     production section and the factory buildings and damaged the stocks kept in the Raw
+     Material and Finished Goods Godown.
+
+
+
+
+                                              15
+XIX. ADMISSIBILITY OF INSURED’S CLAIM:
+
+      The IAR policy covered the stocks held by Glenmark Pharmaceuticals at 28 API locations
+      on floater basis. M.S Seutic Pharma Pvt. Ltd., Plot No: 42/A, Sr. No: 308, SVCIE IDA,
+      Jeedimetla, Hyderabad- 500 055 is one of the risk locations included in Annexure-2
+      attached to the policy schedule.
+
+      It has been confirmed that the fire that took place was a sudden and accidental event, purely
+      fortuitous in nature. Since the peril that had acted did not fall within any of the exclusions,
+      Insured’s claim towards pecuniary loss suffered by them due to stocks damaged by fire is
+      tenable, as per terms of the valid IAR policy, issued to and held by them.
+
+
+
+XX.   COMPLIANCE WITH WARRANTIES:
+
+      Based on our survey/inspection, we confirm that the Insured have complied with all the
+      Warranties and Conditions of the policy.
+
+
+
+
+XXI. FIRE BRIGADE REPORT:
+
+      Copy of the Fire Brigade Report is attached as Enclosure-12
+
+
+
+XXII. POLICE REPORT:
+
+      Copy of Panchanama Report submitted by the Police department is attached as
+      Enclosure-13
+
+
+
+XXIII. ENCLOSURES:
+
+      1.   Final Claim Statement
+      2.   Occurrence Report Submitted by Dr. VVSV. Prasad - Proprietor
+      3.   Layout drawing of Seutic Pharma factory
+      4.   Photographs
+
+
+                                                 16
+       5.   List of Raw Materials damaged by fire
+       6.   Reactions in Progress in Reactors as at the time of fire
+       7.   News Paper Clipping
+       8.   Copy of Factory License of Seutic Pharma
+       9.   Copy of Amendment License
+       10. Central Excise & GST Certificates of Seutic Pharmaceuticals
+       11. Copy of Forensic Analysis Report by Associate Surveyors
+       12. Fire Brigade Report
+       13. Panchanama Report by Police Dept
+
+Issued without prejudice and subject to the terms, conditions and warranties of the policy of
+insurance issued to and held by the insured.
+
+For Professional Insurance Surveyors & Loss Assessors Pvt. Ltd.
+
+
+
+
+EDWARD P. SAMUEL
+SURVEYOR
+
+
+
+
+                                                 17
+

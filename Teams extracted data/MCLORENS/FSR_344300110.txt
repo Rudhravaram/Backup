@@ -1,0 +1,321 @@
+                          (Issued Without Prejudice)
+                     (SLA – 72501 valid up to 17.02.2022)
+Ref. No. IAR-1807-19897                                                       August 08, 2019
+
+                                  FIRE S U R V E Y R E P O R T
+
+       THE INSURED             : Jagadamba Auto Components Ltd.,
+                                 Gat no. – 551/552, 557 558 559 Koregaon Bhima
+                                 Off Pune Nagar Highway, Tal-Shirir,
+                                 Dist. Pune, Maharashtra - 412216
+
+       THE INSURERS            : ICICI Lombard General Insurance Co. Ltd.,
+                                 Pune, Maharashtra
+
+       DATE OF LOSS            : On 23.07.2018
+
+       THE INCIDENT            : Claim for loss due to sudden onset of Fire
+
+ STANDARD FIRE SPECIAL         : 1001/147931639/00/000
+   PERILS INSURANCE
+      POLICY NO.
+
+        CLAIM NO.              : FIR000436842
+
+
+1.00   INSTRUCTIONS
+
+In accordance with instructions received from ICICI Lombard General Insurance Co. Ltd., Pune,
+Maharashtra on 23.07.2018, we visited the Insured’s premises situated at Gat No. -551/552, 557
+558 559, Koregaon Bhima Off Pune Nagar Highway, Tal-Shirir, Dist-Pune, Maharashtra, on
+24.07.2018 to survey and assess the above loss. During our visit, we met Insured, inspected the
+damage caused, discussed the loss and collected relevant information/documents that were
+readily available.
+
+1.02   Based on the documents received, discussions held and verification carried out, we
+       now report as under.
+
+2.00   POLICY PARTICULARS
+
+       Type of Policy      :     Standard Fire Special Perils Insurance Policy
+
+       Policy No.          :     1001/147931639/00/000
+
+       Policy Period       :     From 01.04.2018 to 31.03.2019
+
+       The Insured         :     Jagadamba Auto Components Ltd.,
+                                 Gat no. – 551/552, 557 558 559 Koregaon Bhima
+                                 Off Pune Nagar Highway, Tal-Shirir,
+                                 Dist. Pune, Maharashtra – 412216
+
+       The Insurer         :     ICICI Lombard General Insurance Co. Ltd.,
+                                 Pune, Maharashtra
+                                         2
+       Risk Location         :   Gat no. – 551/552, 557 558 559 Koregaon Bhima
+       Address                   Off Pune Nagar Highway, Tal-Shirir,
+                                 Dist. Pune, Maharashtra – 412216
+
+       Excess                :   5.0% of claim amount subject to minimum of 25,000/-
+                                 non AOG Perils
+
+Sum Insured
+
+         Sr. No.                    Risk Covered               Sum Insured (INR.)
+            1.         Building (With Plinth and Foundation)      15,333,338/-
+            2.         Computer, Printers & Accessories           13,210,472/-
+            3.         Electrical Fittings & Installations         9,217,754/-
+            4.         Furniture, Fixture & Fittings               7,014,220/-
+            5.         Plant, machinery And Accessories           503,614,891/-
+                                          Total Sum Insured      548,390,675/-
+
+3.00   GENERAL INFORMATION
+
+       JAL is currently involved in manufacturing over 300 different products for customers
+       across the globe with the assistance of latest technology, well defined systems and
+       ISO/TS16949 certification.
+
+       JAL is equipped with world class technology ranging from forging to heat treatment to
+       finished products including sub-assemblies to serve customers just in time for their final
+       assembly.
+
+       The infrastructure capacity at JAL includes the following:
+
+               Forging
+               CNC Turning
+               Vertical Machining Center
+               Broaching
+               Gear Cutting
+               Gear Shaving
+               Heat Treatment
+               Honing
+               Grinding
+               Shot blasting and Shot peening
+               Sub-Assemblies
+               Induction Hardening
+               Gear Grinding
+
+       JAL also boasts of best latest technology backed state of art machinery, quality systems,
+       technical knowledge accompanied with dedicated workforce this is the result of the high
+       quality product expectation that JAL seems to be meeting around the globe.
+
+       JAL has proven to be a major first class supplier of precise machined components which
+       include automotive & non-automotive parts to major OEM’s around the globe.
+
+               Two Wheeler Transmission
+                                         3
+            Transmission for Commercial Vehicles
+            Two wheeler sub assembly
+            Hydraulic/Gears for Pumps/Motors
+            Off-Road Vehicle parts
+            Sprockets
+            Coupling
+
+FIRE AFFECTED AREA/ PLANT & MAHINERY
+
+GPT, GPW & CHARGE CAR
+
+GPT FURNACE
+
+      Electrically heated tempering furnace is equipped with a pneumatically operated door,
+      recirculation fan, and roller rail hearth. It is designed to heat and treat parts from 150 °C
+      to 550 °C
+
+      Door is pneumatically operated moves on guide channels with a separate clamping
+      cylinder to obtain a “Retract up-down-close” motion for effective sealing without damage
+      to the 5” ceramic fiber lining. The door is guided by ball bushings riding on machined
+      shafts. When the door is opened, it is first moved away from the furnace casing by the
+      guide channels which pivot at the bottom and are moved out at the top by a small
+      pneumatic cylinder. This provides a tight seal when the door is in the closed position and
+      avoids mechanical damage to the light weight lining.
+
+HEATING EQUIPMENT
+
+  The furnace is heated by a ribbon type electrical element duct heater, separated from the
+  load by a baffle. The electrical heater is constructed from alloy, formed into a series of
+  compactly mounted ribbons. The tempering furnace temperature control instrumentation
+  consists of the following equipment,
+
+     Actual Temperature Controller
+     Excess Temperature controller
+
+  K type thermocouples are available for sensing the temperature and send the signal to
+  controllers.
+
+  Furnace’s roof and walls are insulated with 5” thick ceramic fiber lining, and 6” IFB on
+  floor lining which are replaceable in the event of mechanical damage.
+
+  The roller rails used in the tempering furnace are fabricated from steel and the rollers are
+  cast iron. A steel chain guide is provided to guide the car’s handler.
+
+GPW MACHINE
+
+      The GPW is equipped with roller rails, car tray handler guides, pneumatically operated
+      elevator, oil skimmer, spray nozzles, spray pump, spray timer, dunk timer, heating
+      burner and a 3 way control valve.
+                                       4
+    The washer is used to remove oil after quenching or light machine oil before
+    processing (this is the stage where supposedly the fire broke out as per our
+    observations and discussion with the concerned person at site).
+
+    The capacity of the spray wash machine is approx. 5000 liters. The unit is designed
+    for operation within a temperature range of 40C to 80C. The wash machine solution is
+    heated by eco flame burner and controlled by the oil temperature controller trough.
+
+TEMPERATURE CONTROL
+
+    The washed solutions temperature is controlled by an actual temperature controller
+    where in the temperature is set on the controller as per the requirement. PT 100 RTD
+    is available for sensing the temperature and accordingly sending the signal to the
+    controller.
+
+    The pneumatically operated washer and elevator cylinders are each provided with
+    speed control adjustment. The washer door is opened by pressing the push button
+    which energizes the pneumatic SV coil to operate the elevator during the wash cycle.
+    The washer solution level is automatically maintained by the float operated level
+    devices. Two LS indicators are available for controlling, one is water filling LS and is
+    low water level indicating LS for controlling the heating and spray pump.
+
+    The spray or dunk system consists of the spray timer and dunk timer. 7.5HP and
+    2900RPM spray pump. Initially the charge goes down by elevator and churning
+    process is on till dunking time, then the charge comes up for spray which works via
+    51 spray nozzles located above and alongside the work. Skimming nozzles direct a flat
+    spray towards the rear of the washer to a skimming trough connected to a drain. This
+    process skims off the oil and dirt floating on the top of the solution. Through this
+    process, the oil and dirt particles are removed from the wash solution. Consists of
+    0.25HP and 1440RPM skimmer motor, that rotate the drum type mechanism.
+
+CHARGE CAR
+
+    The single ended electrically powered charge car transports, loads and unloads trays
+    to and from various tray positions. The car travels on embedded railroad tracks as
+    seen in the photographs provided to each location.
+
+    A1HP motor, reducer, chain drive and brake are provided for the car drive.
+
+    The car’s stiff chain tray handler mechanism travels in a channel as it pushes and
+    pulls the loads with its dock type push or pull head. The drive system provided for the
+    tray handler is the same as that provided for the car travel drive system. The car’s
+    location limit switch for the sealed quench furnaceprovides interlocks for the handlers
+    long and short stroke sequences. Lights at the console indicate when the car is
+    aligned correctly at a location. An electronic overcurrent trip circuit is provided to help
+    prevent mechanical damage should the handler or the car drive jam up. A power
+    cable reel provides electrical power as the car moves.
+                                          5
+4.00   OCCURRENCE & CAUSE OF LOSS
+
+       As reported by Insured’s representative that on 23.07.2018 at around 05:30 AM when
+       the charge was just about to come out from the Furnace, quenching oil in the
+       furnace caught fire due to which subject of loss took places.
+
+       Thereafter, supervisor who was on duty applied presence of mind to close the doors
+       of the furnace at the last moment. Thereafter Insured’s control the fire by using in
+       house equipment’s used by the workers.
+
+5.00   FIRE BRIGADE REPORT
+
+       Insured had not called for Fire Brigade Service as the fire was locally controlled by in
+       house equipment’s by the workers.
+
+6.00   LIABILITY AS PER POLICY
+
+       As per the incident as informed by Insured and also by site observation as made the
+       loss to Insured premises occurred due to sudden onset of fire. Which is found to be in
+       sudden & unforeseen in nature & loss beyond insured’s control.
+
+       Thus the liability for the claim case attaches to Insurer.
+
+7.00   INSURED’S CLAIM
+
+       Insured has claimed for amount of Rs. 3,390,046.42/-
+
+8.00 SURVEYORS OBSERVATION AND FINDINGS
+
+       Pursuant to instruction as received from insurer we visited the site of loss to carry out
+       the survey and assessment of subject loss as reported by the Insured. And discussed
+       about the loss situation & gathered relevant information as readily available at the
+       loss site.
+
+       Our Observation are as under:-
+
+       1. The furnace no 3, which was involved in the fire incident was surveyed and the
+          site engineer gave a brief description of the incident and methods taken to
+          minimize the loss on a letter head duly signed and stamped.
+
+
+       2. As per informed by the Insured’s representative on 23.07.2018 a fire occurred in
+          one of the BL heat treatment furnace at 05:30 AM. This happened in of the
+          charge which was supposed to come out of the furnace but the quenching oil
+          caught fire somehow and destroyed the furnace. At around 09:00 AM the fire was
+          controlled by in house equipment’s by the workers.
+
+       3. The fire initiated as the quenching oil in the oil bath caught fire. As per the
+          operator the furnace, the slider charge car got stuck during quenching, due to
+          which the charge (job) remained in the oil bath longer than the stipulated time.
+          Due to which the quenching oil was over heated and caught fire and fire engulfed
+          the complete furnace.
+                                        6
+
+09.00 SALVAGE
+
+       We have deducted the salvage value an amount of INR 60,000/- for the damaged
+       items and which is fair & reasonable in our opinion.
+
+
+10.00 ADEQUACY OF SUM INSURED
+
+       We have been provided with the CA certified plant and machinery amount list in
+       which the amount of plant and machinery amount is INR 431,144,065/-
+
+       As per Issued policy schedule Sum Insured of Plant & Machinery is Rs 503,614,891/-.
+
+       Thus, no under insurance applicable.
+
+
+11.00 EXCESS
+
+       5.0% of claim amount subject to minimum of 25,000/- non AOG Perils
+
+
+12.00 Claim Assessment
+
+       Based on the following points, our loss assessment is as under:-
+
+       1. At the time of loss Insured has provided to us the repair estimate as INR
+          4935200/- which includes the loss of production and is estimating for INR
+          970,000/-.
+
+       2.    Now the Insured’s has provided the Claim Bill for an amount of INR
+            3,390,046.42.
+
+       3. We have considered the rate as per the Invoices provided by the Insured.
+
+       4. We have disallowed the cost claimed for quenching oil as the fire originated in the
+          same and thus being origin of fire is excluded in the policy.
+
+Loss Assessment sheet is attached as Annexures “1”
+
+
+13.00 This report is issued without prejudice to the rights of anyone concerned and is
+subject to terms, conditions and warranties of the insurance policy issued to and held by the
+Insured.
+                                           7
+14.00 ENCLOSURES
+
+14.01   Loss Assessment Sheet
+14.02   Photographs
+14.03   Intimation Mail
+14.04   Incident Report
+14.05   Repair Estimate
+14.06   Asset List of 2017-18
+14.07   CA Certify List of Plant & Machinery
+14.08   Claim Bill
+14.09   Invoices against Claim amount.
+14.10   Policy Copy
+
+For IAR Insurance Surveyors & Loss Assessors Pvt. Ltd.
+
+
+
+
+Authorized Signatory
+

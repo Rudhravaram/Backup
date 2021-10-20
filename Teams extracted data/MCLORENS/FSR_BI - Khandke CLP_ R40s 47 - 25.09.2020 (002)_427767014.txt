@@ -1,0 +1,235 @@
+Report No.: 172/FSR (LOP)/ICICI/2019                                           25th September 2020
+
+                     FINAL SURVEY REPORT- LOSS OF PROFIT
+
+                                  (Claim No. FIR001798264)
+
+Under instructions received from ICICI Lombard General Insurance Company Ltd., Mumbai, we,
+the undersigned Surveyors and Loss Assessors, visited CLP Wind farm, Khandke, Ahmednagar,
+Maharashtra on 07.08.2019 and carried out the survey of the damages to the WTG R40s-47 which
+are reported to have taken place 04.08.2019.
+
+
+We now present our Final Survey Report as follows:
+
+I.     INSURANCE PARTICULARS:
+
+         1    The Insured               CLP Wind Farms (Khandke) Pvt Ltd.
+                                        7thFloor,Fulcrum, Sahar Road, Andheri (east)
+                                        Mumbai – 400099.
+         2    The Insurer               ICICI Lombard GIC Ltd,
+                                        ICICI Lombard House, 2nd Floor,414, P Balu Marg
+                                        Off Veer Sawarkar Marg, Near SiddhiVinayak Temple,
+                                        Prabhadevi,Mumbai-400025
+         3    Policy Type               Industrial All Risk Insurance Policy
+         4    Policy Number             1003/158100355/00/000
+         5    Period of Insurance       From 01/10/2018 to 30/09/2019
+
+         6    Risk Location Details     50.4 MW Wind Farm, spread across an area of Khandke,
+                                        Ahmednagar, Maharashtra, India.
+         7     Sum Insured            II . Business Interruption
+                                                    Description                Sum Insured(INR)
+                                      Gross Profit (Indemnity period of 6        INR 515 Million
+                                                      Months.)                  (Estimated Annual)
+         8     Excess / Deductible    Section II: .
+                                         For claims under deleted special exclusions 1.4, 1.5 and 1.7
+                                          of section II (MLOP) – 14 days of loss of the affected unit
+                                          each and every occurrence.
+                                         All other claims (FLOP) - 7 days of loss of the affected unit
+                                          each and every occurrence.
+
+
+
+II.    BACKGROUND:
+
+
+       M/s. CLP Wind Farms (Khandke) Pvt Ltd owns 50.4 MW wind farm spread across an area
+       of Khandke, Ahmednagar, Maharashtra, India. The main business of the S CLP Wind
+       Farms (Khandke) Pvt Ltd is to sell the power to the MSEDCL.
+
+
+       It was in the CLP - Khandke Wind Farm, the subject claim was reported in a windmill
+       designated as R40K-47 of 0.8MW rating, 1 no of blade got damaged due to lightning.
+
+
+III.   OCCURRENCE:
+
+       We were informed thaton 04.08.2019 at around 04:00 hrs, the operating personnel observed
+       an alarm in the SCADA Panelindicating a faulty signal from WTG R40s-47. Immediately,
+       they rushed to the location to find out the problem. On reaching WTG R40s-47, they found
+       that, due to lightning, tip of Blade B had got damaged and also broken piece of the blade
+       were lying near the bottom of the WTG.
+
+IV.    INSURED’S CLAIM:
+
+       The Insured also informed us that they are preferring a FLOP claim for the loss of
+       generation revenue during the outage period from 04.08.2019 to 22.05.2020, i.e. for 293
+       days.
+
+
+                                                2
+V.     ADMISSIBILITY OF MATERIAL DAMAGE CLAIM:
+
+
+       We have already submitted our Final Survey Report dt. 25th September 2020 in respect of
+       MD Claim to the Insurers.
+
+       The Insured preferred a claim of INR 46,72,800/- towards reinstatement of the damaged
+       blade( 1 no) of WTG – R40s-47 that had occurred due to lightning.
+
+       The peril that had acted, lightning, is one of the perils covered under the IAR Policy. Hence,
+       the Insured has a valid and tenable claim under the IAR policy of Insurance issued to and
+       held by them.
+
+
+VI.    PERIOD OF INTERRUPTION:
+
+       1. WTG – R40s-47 was stopped with effect from 04th August 2019. Hence, we have
+           considered 04th August 2019 as the start of the Interruption Period
+       2. WTG – R40s-47 was re-commissioned on the 22nd May 2020 after fixing new Blade. In
+           our opinion, replacement of 1 no. of blade will not exceed a period of 3 months. Hence
+           in our assessment, we have considered 01st November 2019 as stop date of the
+           interruption period.
+       3. Total period of interruption is reckoned as 90 days.
+
+
+VII.   STANDARD POWER GENERATION DURING THE INTERRUPTION PERIOD:
+
+
+       1. In order to determine the standard power generation from WTG – R40s-47, we had
+          studied the Actual power generation Data from adjacent WEGs R40s-46 and R40s-48,
+          during the Interruption period.
+
+                                                  From 04.08.2019 to
+                                  WTG's
+                                                     01.11.2019 (Kwh)
+                                  R40s-46                        3,54,815
+                                  R40s-48                        4,03,745
+
+
+
+                                                 3
+                             WTG Details                               Generation (KWH)
+        R40s-46                                                                   3,54,815
+        R40s-48                                                                   4,03,745
+        Average of the 2 Windmills                                                3,79,280
+        Trend %                                                                  105.89%
+        Standard Generation for the Interruption Period                           4,01,626
+
+
+
+VIII. TRENDS IN GENERATION BETWEEN AFFECTED & NEARBY WEGs:
+
+
+                                                          Generation data from
+                           WEG Details                 04.08.2019 to 01.11.2019
+                                                                   `
+                R40sk - 46                                               13,29,913
+                R40sk - 48                                               14,66,984
+                Avg of R40sk - 46 & R40sk - 48                           13,98,449
+                R40sk - 47                                               14,80,842
+                Trend                                                     105.89%
+
+      Hence, in our assessment we have considered 105.89% of the average of R40sk - 46 &
+      R40sk – 48 for the purposes of our assessment.
+
+
+IX.   RATE OF GROSS PROFIT:
+
+      Based on the Power Purchase Agreement dated 08th April 2008 entered into between the
+      Insured and MSEDCL which is in force, the selling price per Kwh was Rs. 5/- per unit of
+      power exported.
+
+
+X.    LOSS OF GROSS PROFIT DUE TO THE INTERRUPTION:
+
+
+      Loss of gross profit due to the interruption to R40sk – 47 is worked out below:
+
+
+       Standard Generation during the Interruption Period                            4,01,626 KWH
+       Less: Generation Loss, Auxiliary Consumption & Rebates @ 5%                    20,081 KWH
+
+
+
+                                                4
+        Net Generation during the Interruption Period                            3,81,545 KWH
+        Rate of Gross Profit per Kwh                                                 5.00 INR
+        Loss of Gross Profit during the Interruption Prd                        19,07,725 INR
+
+
+XI.    ADEQUACY OF SUM INSURED:
+
+
+       The Adequacy of Sum Insured is worked out as under:
+
+
+        Total Generation from August 2018 to July 2019                        102,911,882 KWH
+        Less: Generation Loss, Auxiliary Consumption & Rebates @ 5%             5,145,594 KWH
+        Net Generation from August 2018 to July 2019                           97,766,288 KWH
+        Tariff Rate as per PPA                                                        5.00 INR
+        Insurable Gross Profit                                                488,831,440  INR
+        Sum Insured                                                           515,000,000  INR
+        Underinsurance %                                                              NIL
+
+XII.   TIME EXCESS:
+
+
+       The IAR Policy issued to the Insured is subject to a “Time Excess” of 7 days in respect of
+       FLOP claims. This is computed below:
+
+
+         Standard Generation for 90 days                            3,81,545     KWH
+         Daily Standard Generation                                     4,239     KWH
+         Standard Gen for 7 Days                                      29,676     KWH
+         Tariff Rate                                                    5.00     INR
+         7 Days Standard GP                                         1,48,379     INR
+
+
+
+XIII. FINAL ASSESSMENT OF INSURED’S CLAIM:
+
+
+          Loss of Gross Profit during the Interruption Prd        19,07,725    INR
+          Less: Underinsurance - NIL                                   NIL     INR
+          Less: Excess @ 7 days Standard GP                        1,48,379    INR
+          Net Claim Payable                                       17,59,346    INR
+
+
+
+
+                                                5
+XIV. ADMISSIBILITY:
+
+       As per the Investigation report submitted by the Insured, the damage to 1 number of Wind
+       turbine blade had occurred due to impact of lightening.
+       As per the IAR Insurance Policy, Lightning is not an excluded peril. Hence, the Insured has
+       a valid and tenable claim under the IAR policy of Insurance issued to and held by them.
+
+XV.    ENCLOSURES:
+
+       1. Power Purchase Agreement dated 08th April 2008 entered into between the Insured and
+           MSEDCL;
+       2. Invoices raised by the Insured on MSEDCL;
+       3. Monthly Generation Data;
+       4. Investigation Report;
+
+
+
+Issued without prejudice and subject to the terms, conditions and warranties of the policy of
+insurance issued to and held by the insured.
+
+
+For Professional Insurance Surveyors and Loss Assessors Pvt. Ltd.,
+
+
+
+
+SRASHTA SRIVATSAN
+Director
+
+
+
+
+                                                 6
+

@@ -1,0 +1,913 @@
+[2020-12-30 12:11:37,905][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform1.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform1.jpg'
+[2020-12-30 12:11:37,908][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:11:37,925][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform1.jpg'
+[2020-12-30 12:11:38,029][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform3.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:11:38,056][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:11:38,057][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:11:48,180][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform1.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform1.jpg'
+[2020-12-30 12:11:48,184][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:11:48,184][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform1.jpg'
+[2020-12-30 12:11:48,301][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform3.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:11:48,302][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:11:48,302][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:12:17,487][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform3.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:12:17,487][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:12:17,488][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:14:21,615][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform2.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform2.jpg'
+[2020-12-30 12:14:21,644][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:14:21,645][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform2.jpg'
+[2020-12-30 12:14:21,729][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform3.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:14:21,744][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:14:21,752][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:14:46,961][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/insNonepan.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/insNonepan.jpg'
+[2020-12-30 12:14:46,962][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:14:46,962][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/insNonepan.jpg'
+[2020-12-30 12:14:47,057][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform2.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform2.jpg'
+[2020-12-30 12:14:47,057][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:14:47,058][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform2.jpg'
+[2020-12-30 12:15:22,326][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform1.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform1.jpg'
+[2020-12-30 12:15:22,332][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:15:22,333][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform1.jpg'
+[2020-12-30 12:15:22,439][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform4.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform4.jpg'
+[2020-12-30 12:15:22,448][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:15:22,449][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform4.jpg'
+[2020-12-30 12:15:39,918][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform2.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform2.jpg'
+[2020-12-30 12:15:39,919][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:15:39,919][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform2.jpg'
+[2020-12-30 12:24:28,681][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/insNonepan.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/insNonepan.jpg'
+[2020-12-30 12:24:28,683][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:24:28,701][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/insNonepan.jpg'
+[2020-12-30 12:24:28,770][process-26478][ERROR] Exception on /multiple/uploads/FHO202012240618210000EIJo/_proposalform3.jpg [GET]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:24:28,782][process-26478][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2020-12-30 12:24:28,785][process-26478][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask_restful/__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/usr/local/lib/python3.8/dist-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/usr/local/lib/python3.8/dist-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 103, in wrap
+    return test(*args, **kwargs)
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/views.py", line 315, in download_file
+    return send_file(os.path.join(os.getcwd(), "doc_icr", filename), as_attachment=True)
+  File "/usr/local/lib/python3.8/dist-packages/flask/helpers.py", line 629, in send_file
+    file = open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/u01/multiple_insureds/starhealth_db_change/doc_icr/FHO202012240618210000EIJo/_proposalform3.jpg'
+[2020-12-30 12:52:11,749][process-26478][ERROR] Error while uploading the document to draft 27776 and proposal FHO202012301037150000EanF
+[2020-12-30 12:52:11,751][process-26478][ERROR] 1
+Traceback (most recent call last):
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/application/files_upload_vo.py", line 77, in upload_document
+    ('document', open(sup_doc[row[1]], 'rb'))
+KeyError: 1
+[2020-12-30 14:19:13,366][process-709][ERROR] Error while consuming
+[2020-12-30 14:19:13,369][process-709][ERROR] (-15, 'Tesseract Open Source OCR Engine v4.0.0-beta.1 with Leptonica Warning. Invalid resolution 0 dpi. Using 70 instead. Estimating resolution as 239')
+Traceback (most recent call last):
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/queuing/controller.py", line 55, in consume
+    output = process_email(*tuple(list(ast.literal_eval(msf.value.decode('utf-8')))))
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/read_email_v2.py", line 194, in process_email
+    rotate_v2(os.path.join(os.getcwd(), "doc_icr", folder_name, file))
+  File "/u01/multiple_insureds/starhealth_db_change/star_health/preprocessing/change_orientation.py", line 203, in rotate_v2
+    tx_org1 = pytesseract.image_to_string(im_org, lang='eng')
+  File "/usr/local/lib/python3.8/dist-packages/pytesseract/pytesseract.py", line 356, in image_to_string
+    return {
+  File "/usr/local/lib/python3.8/dist-packages/pytesseract/pytesseract.py", line 359, in <lambda>
+    Output.STRING: lambda: run_and_get_output(*args),
+  File "/usr/local/lib/python3.8/dist-packages/pytesseract/pytesseract.py", line 270, in run_and_get_output
+    run_tesseract(**kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/pytesseract/pytesseract.py", line 246, in run_tesseract
+    raise TesseractError(proc.returncode, get_errors(error_string))
+pytesseract.pytesseract.TesseractError: (-15, 'Tesseract Open Source OCR Engine v4.0.0-beta.1 with Leptonica Warning. Invalid resolution 0 dpi. Using 70 instead. Estimating resolution as 239')
+[2021-01-19 18:22:35,917][process-8400][ERROR] select login_status from users where username = %s	None
+[2021-01-19 18:22:35,945][process-8400][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-19 18:39:51,577][process-13644][ERROR] select login_status from users where username = %s	None
+[2021-01-19 18:39:51,577][process-13644][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-19 21:11:44,070][process-2508][ERROR] select login_status from users where username = %s	None
+[2021-01-19 21:11:44,076][process-2508][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-21 12:59:31,686][process-10684][ERROR] select login_status from users where username = %s	None
+[2021-01-21 12:59:31,686][process-10684][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-21 13:02:45,024][process-12188][ERROR] select login_status from users where username = %s	None
+[2021-01-21 13:02:45,024][process-12188][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-21 13:51:58,025][process-8872][ERROR] Exception on /Dashboard/Errors [GET]
+Traceback (most recent call last):
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask_restful\__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\starhealth_db_change\star_health\views.py", line 105, in wrap
+    return test(*args, **kwargs)
+  File "C:\starhealth_db_change\star_health\views.py", line 15322, in GetErrors
+    if os.path.exists(os.path.join(os.getcwd(), log_folder, log_file_name[i])):
+NameError: name 'log_file_name' is not defined
+[2021-01-21 13:51:58,515][process-8872][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2021-01-21 13:51:58,521][process-8872][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask_restful\__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\starhealth_db_change\star_health\views.py", line 105, in wrap
+    return test(*args, **kwargs)
+  File "C:\starhealth_db_change\star_health\views.py", line 15322, in GetErrors
+    if os.path.exists(os.path.join(os.getcwd(), log_folder, log_file_name[i])):
+NameError: name 'log_file_name' is not defined
+[2021-01-21 14:16:02,489][process-6276][ERROR] select login_status from users where username = %s	None
+[2021-01-21 14:16:02,489][process-6276][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-21 17:23:53,874][process-8576][ERROR] select login_status from users where username = %s	None
+[2021-01-21 17:23:53,874][process-8576][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:06:28,376][process-5176][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:06:28,406][process-5176][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:11:39,601][process-11040][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:11:39,631][process-11040][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:11:44,099][process-11040][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:11:44,099][process-11040][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:11:49,502][process-11040][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:11:49,502][process-11040][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:11:53,618][process-11040][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:11:53,618][process-11040][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:11:59,837][process-11040][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:11:59,860][process-11040][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:12:07,570][process-11040][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:12:07,582][process-11040][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:15:46,167][process-12024][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:15:46,185][process-12024][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 14:15:51,931][process-12024][ERROR] select login_status from users where username = %s	None
+[2021-01-22 14:15:51,953][process-12024][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range
+[2021-01-22 19:23:24,502][process-16968][ERROR] Exception on /home [GET]
+Traceback (most recent call last):
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask_restful\__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\starhealth_db_change\star_health\views.py", line 105, in wrap
+    return test(*args, **kwargs)
+  File "C:\starhealth_db_change\star_health\views.py", line 535, in home
+    for i in range(0, len(main_table_query)):
+UnboundLocalError: local variable 'main_table_query' referenced before assignment
+[2021-01-22 19:23:25,069][process-16968][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2021-01-22 19:23:25,074][process-16968][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask_restful\__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\starhealth_db_change\star_health\views.py", line 105, in wrap
+    return test(*args, **kwargs)
+  File "C:\starhealth_db_change\star_health\views.py", line 535, in home
+    for i in range(0, len(main_table_query)):
+UnboundLocalError: local variable 'main_table_query' referenced before assignment
+[2021-01-22 19:34:37,751][process-16656][ERROR] Exception on /home [GET]
+Traceback (most recent call last):
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask_restful\__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\starhealth_db_change\star_health\views.py", line 88, in wrap
+    return test(*args, **kwargs)
+  File "C:\starhealth_db_change\star_health\views.py", line 537, in home
+    for i in range(0, len(main_table_query)):
+UnboundLocalError: local variable 'main_table_query' referenced before assignment
+[2021-01-22 19:34:38,260][process-16656][ERROR] <Response 219 bytes [500 INTERNAL SERVER ERROR]>
+[2021-01-22 19:34:38,266][process-16656][ERROR] 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+Traceback (most recent call last):
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask_restful\__init__.py", line 272, in error_router
+    return original_handler(e)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\iaila\anaconda3\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\starhealth_db_change\star_health\views.py", line 88, in wrap
+    return test(*args, **kwargs)
+  File "C:\starhealth_db_change\star_health\views.py", line 537, in home
+    for i in range(0, len(main_table_query)):
+UnboundLocalError: local variable 'main_table_query' referenced before assignment
+[2021-01-25 17:58:45,332][process-4356][ERROR] select login_status from users where username = %s	None
+[2021-01-25 17:58:45,332][process-4356][ERROR] Failed to Read into MySQL table list index out of range
+Traceback (most recent call last):
+  File "C:\starhealth_db_change\star_health\database\mysql_script.py", line 432, in Read_Login_Status_Mod
+    return myresult[0][0]
+IndexError: list index out of range

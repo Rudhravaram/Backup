@@ -1,0 +1,227 @@
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+/bin/sh: 1: /u01/StarHealth/starhealth_db_change/service/mailjob.sh: Permission denied
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+/u01/StarHealth/starhealth_db_change/interpretation/pageicr2_new_multiple.py:31: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if z is 1 and i > 30 and insured_bounding_box is None:
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:80: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and (len(dl_number) is 15):
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:90: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and (len(dl_number) is 17 or len(dl_number) is 16 or len(dl_number) is 14):
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:90: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and (len(dl_number) is 17 or len(dl_number) is 16 or len(dl_number) is 14):
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:90: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and (len(dl_number) is 17 or len(dl_number) is 16 or len(dl_number) is 14):
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:100: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and len(dl_number) is 15:
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:109: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and len(dl_number) is 15:
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:2530: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and (len(dl_number) is 16 or len(dl_number) is 10):
+/u01/StarHealth/starhealth_db_change/interpretation/dl_new.py:2530: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  if dl_number.isalnum() and (len(dl_number) is 16 or len(dl_number) is 10):
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+Tue, 4 Aug 2020 11:41:10 +0000
+----------
+New folder
+Traceback (most recent call last):
+  File "ReadEmail.py", line 438, in <module>
+    folder_list_attach, Date, sender, mail_sub = Download_Attachments_from_Email(UnReadMsg, mail_ids)
+  File "ReadEmail.py", line 323, in Download_Attachments_from_Email
+    folder, status = folder_check(subject)
+  File "ReadEmail.py", line 253, in folder_check
+    return Create_NewFolder(subject)
+  File "ReadEmail.py", line 215, in Create_NewFolder
+    os.mkdir(path)
+FileNotFoundError: [Errno 2] No such file or directory: 'doc_icr/SeniorCitizen344af54f-8336-4b6d-886f-6bf047b8422e'
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND
+Cron job for /u01/StarHealth/ICR/ReadEmail.py
+['PUN.csv', 'Indian-States-and-Districts-List.csv', 'occupations.csv', 'Bank_Codes.csv', 'UTIB.csv', 'HDFC.csv', 'pin_code.csv', 'BAR.csv', 'state_list.csv', 'district.csv', 'SBI.csv', 'ICIC.csv']
+/u01/StarHealth/starhealth_db_change
+starhealth1234
+Login Successful
+NO NEW EMAIL FOUND

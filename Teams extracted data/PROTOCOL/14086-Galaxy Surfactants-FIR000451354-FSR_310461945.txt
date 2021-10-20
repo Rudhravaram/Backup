@@ -1,0 +1,248 @@
+        Surveyor Ref:                      Insurers’ Ref:
+No: 14086/ICICI/1819                       Insured Name: Galaxy Surfactants Limited
+                                           Policy No: 1003/64524385/07
+Claim no: FIR000451354                     Policy Period from: 01/04/2018
+                                           Time: 00:00 Hours to Midnight of 31/03/2019
+Report Date 7th March 2019                 Date of loss: 10th June 2018
+                                           Survey date: 30th August 2018
+
+
+ STRICTLY CONFIDENTIAL & PRIVILEGED FOR THE USE OF
+      INSURERS AND THEIR LEGAL ADVISORS ONLY
+
+  Survey report regarding claim preferred by Galaxy Surfactants Limited,
+    Mumbai, for reported loss/damage to their Property insured under
+                        Industrial All Risks Policy
+
+1.0      INSTRUCTIONS
+
+
+1.1      Galaxy Surfactants Limited, Mumbai, preferred claim on ICICI
+         Lombard         GIC     Ltd,    Prabhadevi,         Mumbai       for   the    reported
+         loss/damage to the property covered under Industrial All Risks Policy.
+
+
+1.2      Insurers, in turn, appointed us to conduct the survey for reported
+         loss/damage on 29th August 2018.
+
+
+1.3      Our basic terms of reference were
+         a)          To investigate into the circumstances leading to reported
+                     loss/damage
+         b)          To assess the physical damages/financial loss said to have
+                     sustained by the insured in the reported accident
+         c)          To determine the liability of the insurers vis-à-vis policy
+                     conditions.
+
+
+
+Gal ax y S u rfa ct an t s Li mi t ed – 14 0 86/ICICI/1819   K amal Bi yani A ss ociat es   1
+1.4      Pursuant to above instructions, we visited the Insured’s premises at
+         Galaxy Surfactants, Plot No. V-23, Taloja MIDC, Village Chal, Tal.
+         Panvel, Dist. Raigad, Maharashtra, 410208 on 30th August 2018. In
+         continuation, the Insured were requested to submit to us the
+         requisite documents in support of their claim. On the basis of the
+         documents made available to us, we are issuing our report.
+
+
+1.5      Based on
+
+
+         a)          Observations made by us during our visit to the premises
+         b)          Perusal of the documents submitted by the insured during
+                     our survey and subsequently thereafter
+         c)          Discussions held with and explanation offered by the insured
+
+
+1.6      We want to submit our findings, recommendations, for the
+         consideration of the Insurers, as under…
+
+
+2.0      POLICY PARTICULARS
+
+
+2.1      Insured                         : Galaxy Surfactants
+                                            C 49 2 T.T.C Industrial Area
+                                            Pawne, Navi Mumbai, Maharashtra,
+                                            PIN 400703
+2.2      Insurers                        : ICICI Lombard GIC Ltd, Mumbai
+2.3      Type of Policy                  : Industrial All Risks Policy
+2.4      Policy No.                      : 1003/64524385/07
+2.5      Period of Insurance             : from: 01/04/2018 Time: 00:00 Hours to
+                                            Midnight of 31/03/2019
+2.6      Location of the Risk            : Galaxy Surfactants
+                                            Plot No. V-23, Taloja MIDC, Village Chal,
+                                            Tal. Panvel, Dist. Raigad, Maharashtra,
+                                            410208
+2.7      Interest                        : Machinery Breakdown
+
+
+Gal ax y S u rfa ct an t s Li mi t ed – 14 0 86/ICICI/1819   K amal Bi yani A ss ociat es   2
+2.8      Total Sum insured               : Rs. 3836,38,65,700/-
+2.9      Sum insured for Plot : Rs. 380,94,33,751.00
+         No. V-23, MIDC
+         Taloja Raigarh-410208
+         Maharashtra
+2.10     Add on cover                    : -
+2.11     Escalation clause               : -
+
+
+3.0      INCIDENT
+
+
+3.1      The incident provided to us quoted below:
+          Quote
+            11k1tripping was reported to shift Electrician on 14.07.18 at 20:30
+             pm. On checking, HMI displayed Inverter fault with fault code
+             210.
+            Panel was incoming power was checked by electrician which
+             was found OK
+            Inverter was reset but for checking, enclosure was opened and
+             blower-motor was examined
+            Smell was coming from motor and it was in jammed condition
+             with impeller touching the casing.
+            To check further, motor was disconnected and inverter was
+             switched on. No error came and all parameters were ok
+             confirming inverter was ok.
+            Motor was checked with megger, it showed its winding is
+             grounded.
+            With no immediate availability of spare motor with Aerzen and
+             Godrej, decision was taken to replace entire blower with Old
+             Robuschhi make blower and start the plant.
+         Unquote
+         Note: The incidence report provided by the Insured has been
+         reproduced verbatim without any corrections, if any required to be
+         made, with regard to spellings and/or grammar.
+
+
+Gal ax y S u rfa ct an t s Li mi t ed – 14 0 86/ICICI/1819   K amal Bi yani A ss ociat es   3
+4.0      EXTENT OF DAMAGE
+
+
+4.1      During our survey we have inspected blower of following name
+         plate details…
+
+
+         Make                                    :   Aerzen
+         Model                                   :   AT 300 0.8 S
+         Serial Number                           :   P 16060525
+
+
+4.2      It was already removed from the place of installation and kept
+         aside. During our survey, it was observed in dismantled condition.
+         Heavy scoring was observed on the blower body. This indicated the
+         jamming, and off balanced. We again visited the premises along
+         with the service person of the supplier. The symptoms were
+         confirmed. The blower was found jammed. In addition, its driving
+         motor was also found damaged. It was completely integrated
+         assembly and was imported. The necessary infrastructure to repair
+         the equipment was not available in India. Considering the nature of
+         the damages, the supplier also ruled out repairs even at their
+         overseas manufacturing location at China. Hence the equipment
+         was treated as total loss.
+
+
+5.0      CAUSE OF DAMAGE
+
+
+5.1      The breakdown took place suddenly. The error logs were sent to
+         supplier for their analysis. As per their feedback, the errors 224,225,
+         210 gets logged multiple times. This was co-related to power dips in
+         the incoming power condition. The most probable cause of failure
+         was fluctuations in the supply power. The cause is not excluded
+         under the policy issued to and held by the insured. Thus the claim is
+         admissible under the policy.
+
+
+
+
+Gal ax y S u rfa ct an t s Li mi t ed – 14 0 86/ICICI/1819   K amal Bi yani A ss ociat es   4
+7.0      ASSESSMENT OF LOSS
+
+
+7.1      The assessment of loss has been carried out on the basis of our
+         inspection and the documents submitted by the Insured. The
+         damaged item is not reinstated. Thus the assessment is done on the
+         basis of the market value of the item. The new replacement cost
+         quotation was not submitted by the insured. It was informed that the
+         affected model is not being manufacture. We have received the
+         original purchase invoice from Aerzon Turbo Co. Ltd., No SO-16-
+         00125/2 dated 10th August 2016 of the item i.e. blower. By applying
+         escalation index, we have arrived at the reinstatement value.
+         Reasonable depreciation is applied to arrive at the market value of
+         the item.
+
+
+7.2      Depreciation
+         As the item is not reinstated, the depreciation is applied.
+
+
+7.3      Salvage
+         The damaged item would realize salvage value. Insured has not
+         provided any salvage value. The same was negotiated with the
+         insured for deduction of reasonable salvage value.
+
+
+7.4      Adequacy of Insurance
+         Considered as adequately covered
+
+
+7.5      Excess
+         Sum insured of Plot No. V-23, MIDC Taloja Raigarh-410208,
+         Maharashtra is Rs 380,94,33,751/-. As per policy, Deductibles:
+         Material Damage: Policies having Sum Insured above INR 100 Cr and
+         up to INR 1500 Cr per location: 5% of claim amount subject to a
+         minimum of 10 lakhs for each and every loss. Accordingly, Rs 10 lakh
+         is deducted towards excess.
+
+
+
+
+Gal ax y S u rfa ct an t s Li mi t ed – 14 0 86/ICICI/1819   K amal Bi yani A ss ociat es   5
+8.0      The net assessed loss works out to Rs. 24,28,703.00. The detailed
+         working is attached as Annexure to the report.
+
+
+9.0      CONCLUSIONS
+
+
+9.1      The cause of loss is reported fluctuations, the peril which is not
+         excluded under the policy issued to and held by the Insured. Thus
+         the claim falls within the purview of the policy & is payable.
+
+
+9.0      This report is issued without prejudice and subject to the terms,
+         condition, exceptions & warranties of the policy issued to and held
+         by the Insured.
+
+
+10.0     DECLARATIONS
+
+             1. We hereby declare that the photographs of the affected
+                property as detailed in our report were snapped by us by our
+                Digital Camera and uploaded on our Office Computer. These
+                were got printed in house and are not manipulated.
+
+             2. We hereby declare that we have no interest in the subject
+                matter in question and reported as above. We are neither
+                related to the Insured nor the business either by blood,
+                business or share-holding of whatsoever nature.
+
+
+
+
+        K R BIYANI
+        License No. SLA 34365 valid till 27.11.2019
+
+        Encl:
+         Assessment of loss
+         Documents
+         Print copy of Internal report
+         Print copy of Original Purchase invoice
+         Survey fee bill
+
+
+
+
+Gal ax y S u rfa ct an t s Li mi t ed – 14 0 86/ICICI/1819   K amal Bi yani A ss ociat es   6
+

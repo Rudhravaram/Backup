@@ -1,0 +1,241 @@
+Report No:172/FSR (MD)/ICICI/2019                                              25th September2020
+
+
+                                  FINALSURVEY REPORT
+                                      (Claim No.FIR001798264)
+
+Under instructions received from ICICI Lombard General Insurance Company Ltd., Mumbai, we, the
+undersigned Surveyors and Loss Assessors, visited CLP Wind farm, Khandke, Ahmednagar,
+Maharashtra on 07.08.2019 and carried out the survey of the damages to the WTG R40s-47 which are
+reported to have taken place 04.08.2019.
+
+We now present our FINALSURVEY REPORT as under:
+
+I.     INSURANCE PARTICULARS:
+
+
+         1    The Insured               CLP Wind Farms (Khandke) Pvt Ltd.
+                                        7thFloor,Fulcrum, Sahar Road, Andheri (east)
+                                        Mumbai – 400099.
+         2    The Insurer               ICICI Lombard GIC Ltd,
+                                        ICICI Lombard House, 2nd Floor,414, P Balu Marg
+                                        Off Veer Sawarkar Marg, Near SiddhiVinayak Temple,
+                                        Prabhadevi,Mumbai-400025
+         3    Policy Type               Industrial All Risk Insurance Policy
+         4    Policy Number             1003/158100355/00/000
+         5    Period of Insurance       From 01/10/2018 to 30/09/2019
+
+         6    Risk Location Details     50.4 MW Wind Farm, spread across an area of Khandke,
+                                        Ahmednagar, Maharashtra, India.
+         7   Sum Insured                I . MBD Section
+                                                         Description             Sum Insured(INR)
+                                        63 Enercon Make E-53 Model
+                                        Windmills (Consisting of but not
+                                        limited   to       foundation,   Tower
+                                        Structure, Plant & Machinery &                    2,551,500,000
+                                        Shared services) of capacity 0.8
+                                        MW each totaling to 50.4 MW.
+                                        Stores & Spares and Consumables                      50,000,000
+                                                           Total                    2,601,500,000
+         8   Excess / Deductible        Section I:
+                                           5% of claim amount subject to minimum of INR 1 Million
+                                            each and every loss.
+
+
+
+
+II.    INSURED’S CLAIM:
+
+       The Claim Form submitted by the Insured is attached as Enclosure-1.
+       The Insured have preferred a claim of INR 46,72,800/- towards reinstatement of the damaged
+       blade( 1 no) of WTG – R40s-47.
+
+III.   OCCURRENCE:
+
+       We were informed thaton 04.08.2019 at around 04:00 hrs, the operating personnel observed an
+       alarm in the SCADA Panelindicating a faulty signal from WTG R40s-47. Immediately, they
+       rushed to the location to find out the problem. On reaching WTG R40s-47, they found that, due
+       to lightning, tip of Blade B had got damaged and also broken piece of the blade were lying near
+       the bottom of the WTG.
+
+
+IV.    OUR INSPECTIONS AND OBSERVATIONS:
+
+       We visited CLP Wind farm, Khandke, Ahmednagar, Maharashtra on 07.08.2019 and carried
+       out the survey of the damages to the WTG R40s-47. The Insured’s representative,
+       Mr.AbdulMufid was present during our survey.
+
+
+
+
+                                                     2
+      Identification of WEG:
+        WEG Make                          Enercon India Ltd.
+        Model                             800 KW
+        Location Number                   137
+        Village                           Khandke, Ahmednagar
+        Month / Year of Installation      03/2009
+
+
+      During this visit, the WTG R40s-47, was not operating, due to breakdown.
+      During our visit, we observed damage to only 1 no blade. We also observed the tip of Blade
+        B in broken condition. The Insured had collected and kept the broken pieces of the blade
+        safely inside the control room of the WTG. We inspected the broken blade tip and found
+        soot marks on the blade.
+      We also observed, the Insured has recorded the incident in WTG logbook.
+
+     Investigation Report is attached as Enclosure – 2.
+     Photograph CD is attached as Enclosure –3.
+     Log book for WTG is attached as Enclosure – 4.
+     Commissioning Certificate is attached as Enclosure - 5.
+     O & M Agreement between CLP Wind farm and Powercon is attached as Enclosure – 6.
+
+
+
+V.   OUR ASSESSMENT:
+
+     a) Quantification:
+
+        Based on our inspection and verification of the damaged items, the extent of loss was as
+        under:
+
+                       Wind Turbine
+          S. No.                                       Identification of 1 No. of affected blade
+                       Identification
+                                                Manufacturer                  Enercon India Ltd.
+                    WTG R40K-47, Loc            Type                          E53-1
+            1
+                           no.137               Blade Number                  EIL-04681
+                                                Blade name                    B
+
+
+
+
+                                                 3
+b) Valuation:
+
+   The valuation has been done based on the Tax Invoice provided by the Insured. Final repair
+   invoice along with proof of payment is attached as Enclosure- 7.
+
+c) Salvage Value:
+
+   The only component of salvage in the WTG blade is the metallic flange which secures it to
+   the Nacelle with bolts. Otherwise the blade is fabricated from fiber glass panels, which
+   have no salvage value. We have considered a nominal salvage value of Rs 1,000/- towards
+   this metallic flange, which in our opinion is fair & reasonable.
+
+d) Assessment of the Loss:
+
+      The Insuredhave replaced the affected blade and submitted a invoice for an amount for
+       INR 46,72,800/- (Inclusive of Tax) towards the same. In the Tax Invoice submitted,
+       the replacement cost of the blade has been stated as the Cost of “Technical Service” to
+       Restore the Blade. However, we have confirmed that the damaged WTG blade has been
+       replaced with a new one at this cost.
+
+      Our Assessment for the insured claim is as under:
+
+
+                                                                       Amount       Amount
+        Sl.No                                           Unit Rate
+                    Description       Qty.       Unit                  Claimed      Assessed
+           .                                             (INR)
+                                                                        (INR)        (INR)
+                Technical Service
+          1     (Restore WTG              1      No.       39,60,000   39,60,000     39,60,000
+                R40s47 Khandke)
+                Tax @ GST 18%                                           7,12,800      7,12,800
+                       Total                                           46,72,800     46,72,800
+
+
+      We have assessed the loss inclusive of GST , since the Insured is not eligible for input
+       GST credit. Copy of Insured’s email dated 18.09.2020 confirming non-availability of
+       GST input credit is attached as Enclosure –8.
+
+
+
+
+                                             4
+VI.    ADEQUACY OF SUM INSURED:
+
+       From the Insurance Policy, we observed that63Nos of Enercon (0.85MW) Make E-53 Model
+       WTGS were Insured for INR 255,15,00,000/-. Thus, the Sum Insured of one WTG works out
+       to Rs. 4.05 Crores. From market enquires, the present cost of Enercon 0.85 MW Model E-53 is
+       found to be Rs. 4.00 Crores each. Hence, the Sum Insured provided is found to be adequate and
+       hence there is no Under Insurance.
+
+
+VII.   POLICY EXCESS:
+
+       As per the Material Damage Section of the IAR policy held by the Insured, the excess is 5% of
+       claim amount subject to minimum of INR 1 Million each and every loss.
+
+
+VIII. FINAL LOSS ADJUSTMENT:
+
+
+                                       Description                                   Amount (Rs)
+
+        Amount Claimed by the Insured
+                                                                                          46,72,800
+        Assessed Loss
+                                                                                          46,72,800
+        LESS: Salvage                                                                         1,000
+        Loss net of Salvage                                                               46,71,800
+        LESS:Underinsurance                                                                    NIL
+        Loss net of Underinsurance                                                        46,71,800
+        LESS:Policy Excess 5% of claim amount subject to minimum of INR 1
+        Million each and every loss                                                       10,00,000
+        Net Assessed Loss                                                                 36,71,800
+
+
+IX.    CAUSE OF LOSS:
+
+       As per the Investigation report submitted by the Insured, the damage to 1 number of Wind
+       turbine blade had occurred due to impact of lightening.
+
+
+
+
+                                                  5
+X.     ADMISSIBILITY OF INSURED’S CLAIM:
+
+       The peril that had acted, lightning, is one of the perils covered under the IAR Policy. Hence,
+       the Insured has a valid and tenable claim under the IAR policy of Insurance issued to and held
+       by them.
+
+
+XI.    COMPLIANCE WITH WARRANTIES:
+
+
+       Based on the observations made during our survey, we confirm that the Insured have complied
+       with all the Warranties & Conditions of the IAR Policy issued to and held by them.
+
+
+XII.   ENCLOSURES:
+
+       1. Claim Form
+       2. Investigation Report
+       3. Photograph CD
+       4. Log book for WTG
+       5. Commissioning Certificate
+       6. O & M Agreement between CLP Wind farm and Powercon
+       7. Final repair invoice along with proof of payment
+       8. Copy of Insured’s email dated 18.09.2020 confirming non-availability of GST input credit
+
+Issued without prejudice and subject to the terms, conditions and warranties of the policy of insurance
+issued to and held by the insured.
+
+
+For Professional Insurance Surveyors & Loss Assessors Pvt. Ltd.
+
+
+
+
+EDWARD P SAMUEL
+Director
+
+
+
+
+                                                  6
+

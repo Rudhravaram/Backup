@@ -1,0 +1,171 @@
+{
+	"info": {
+		"_postman_id": "2bb2b73c-af7b-4e9e-a31e-f3d8607897ed",
+		"name": "UAT - Portability",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Access Token",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"username\":\"gAAAAABfqhmdiVzoGThMkYkX1wKTlbK_yh1XLdECahns85T9XhNl7Lff3I-frOyn8gGoWSctvVTw-4woa8gkRly9RQPZz6n67w==\",\"password\":\"gAAAAABfqhmdiVzoGThMkYkX1wKTlbK_yh1XLdECahns85T9XhNl7Lff3I-frOyn8gGoWSctvVTw-4woa8gkRly9RQPZz6n67w==\"}"
+				},
+				"url": {
+					"raw": "https://portauto.insurancearticlez.com/auth",
+					"protocol": "https",
+					"host": [
+						"portauto",
+						"insurancearticlez",
+						"com"
+					],
+					"path": [
+						"auth"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Policy Upload",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTc3NzQwMzYsImlhdCI6MTYxNzc3MzczNiwibmJmIjoxNjE3NzczNzM2LCJpZGVudGl0eSI6MTIzfQ.0jtqhSPfhQS04DEBxHVUBuuk9zh6zBV4HMk37NmP4gu",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/D:/OneDrive - iail.in/i@iL Files/CL - ICICI Portability/Test Data/UAT - Reliance/Test Data/03.30.2021 RELIANCE - UAT/WB6582167.jpeg"
+						},
+						{
+							"key": "Policy No",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "Policy Holder Name",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "Make",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "Model",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "RTO",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "Registration no",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "Engine no",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "Chassis no",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "from date",
+							"value": "",
+							"type": "text"
+						},
+						{
+							"key": "to date",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://portauto.insurancearticlez.com/iail_upload",
+					"protocol": "https",
+					"host": [
+						"portauto",
+						"insurancearticlez",
+						"com"
+					],
+					"path": [
+						"iail_upload"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "RC Upload",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MTc2ODg5MzIsImlhdCI6MTYxNzY4ODYzMiwibmJmIjoxNjE3Njg4NjMyLCJpZGVudGl0eSI6MTIzfQ.RS_awk-hUgJD8D4KnSFHeMoWNdgJteb2-fmRVxli0pq",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "rc_file_front",
+							"type": "file",
+							"src": "/D:/OneDrive - iail.in/i@iL Files/CL - ICICI Portability/Test Data/UAT - RC/Test Data/-----Track - RETEST Policies from Suresh-----/04.05.2021/RC not fetch all data/MP36AA2209.jpeg"
+						},
+						{
+							"key": "rc_file_back",
+							"type": "file",
+							"src": []
+						},
+						{
+							"key": "rc_number",
+							"value": "UP65AT3796",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://portauto.insurancearticlez.com/iail_rc_upload",
+					"protocol": "https",
+					"host": [
+						"portauto",
+						"insurancearticlez",
+						"com"
+					],
+					"path": [
+						"iail_rc_upload"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
