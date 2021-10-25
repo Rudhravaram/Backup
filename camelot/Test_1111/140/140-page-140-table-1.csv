@@ -1,0 +1,54 @@
+"","Procedure Name","General 
+Ward","AC Gen. 
+Ward /
+Non-AC 
+Semi 
+Special/ 
+NICU","AC Semi 
+Special / Non-
+AC Special /
+HDU","Semi Deluxe/     
+AC Special/   
+ICU","Suites"
+"","","","","","",""
+"","Angiography on Table","3500","4200","5600","7000","7940"
+"","Angioplasty on table (stenting extra)","12550","20850","25050","27800","29100"
+"","Aorto Femoral Graft","19450","27800","34750","41700","46290"
+"","Axillo-Femoro Graft","16700","25050","27800","34750","39680"
+"","Femoro-Femoro","16700","25050","27800","34750","39680"
+"1 2 3 4 5 6 7 8 9 1","Femoro-Popliteal","16700","25050","27800","34750","39680"
+"","Femoro-Distal Graft","16700","25050","27800","34750","39680"
+"","Carotid Endarterectomy","16700","25050","27800","34750","39680"
+"","Vascular Tumors","16700","25050","27800","34750","39680"
+"0","Arotic Aneurysm","22250","25050","30600","37500","46290"
+"11","Vascular Injury (single vessel)","13900","19450","27800","30600","33070"
+"12","Embolectomy","13900","19450","27800","30600","33070"
+"13","Vein Patch","16700","22250","27800","30600","33070"
+"14","Iliac Endarterectomy","16700","22250","27800","30600","33070"
+"15","Doppler Pressure (Portable)","750","850","1000","1100","1200"
+"16","ArterioVenous Fistula 
+- Distal
+- Proximal","6050
+7250","7250
+8500","7900
+9100","8500
+9700","9200
+10350"
+"17","Basillic vein Transposition","14500","21750","24150","30200","34500"
+"18","ArterioVenous Fistula Graft                        
++ Re-do for Dialysis Fistula","14500","21750","24150","30200","34500"
+"19","Carotid-Subclavian Bypass","16700","25050","27800","34750","39680"
+"20","Varicose Veins  - S.F. Ligation
+- Stripping
+- Avulsions","12550","16700","19450","20850","23810"
+"","","7000","7000","7000","7000","7000"
+"","","7000","7000","7000","7000","7000"
+"21","Sclero therapy per injection","850","1000","1150","1250","1330"
+"22","Thorcic outlet release without Vascular 
+Repair","16700","20850","25050","27800","29100"
+"23","Thorcic outlet release with Vascular 
+Repair","24150","31400","38650","46000","48300"
+"24","Endovenous Ablation of Varicose Veins","24150","31400","38650","46000","48300"
+"25","Deep venous reconstruction","16700","20850","25050","27800","29100"
+"26","I.V.C. Filter","16700","25050","27800","30600","33070"
+"27","Catheter directed Thrombolysis","12550","20850","25050","27800","29100"

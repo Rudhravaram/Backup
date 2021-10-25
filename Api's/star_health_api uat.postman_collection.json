@@ -1,0 +1,228 @@
+{
+	"info": {
+		"_postman_id": "d048c176-b51c-4de1-a4de-cf28cfd1f74c",
+		"name": "star_health_api uat",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Pan",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "JWT",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "pan_doc",
+							"type": "file",
+							"src": "/C:/Users/manje/Downloads/Pan Card_MOT11165798_1626185429848_.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/pan",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"pan"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Aadhar",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyOTM3NTEsImlhdCI6MTYyNjI5MzQ1MSwibmJmIjoxNjI2MjkzNDUxLCJpZGVudGl0eSI6MTIzfQ.ez0GWx_P-j9PbKv01f_yyESi456PXoDDBPWf_OAMENB",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "aadhar_doc_page_1",
+							"type": "file",
+							"src": "/C:/Users/Venky/OneDrive/Desktop/venky_aadhar1.jpg"
+						},
+						{
+							"key": "aadhar_doc_page_2",
+							"type": "file",
+							"src": []
+						}
+					]
+				},
+				"url": {
+					"raw": "https://docs-automation.starhealth.in/api/aadhar",
+					"protocol": "https",
+					"host": [
+						"docs-automation",
+						"starhealth",
+						"in"
+					],
+					"path": [
+						"api",
+						"aadhar"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Masking",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mjg2ODg2MTYsImlhdCI6MTYyODY4ODMxNiwibmJmIjoxNjI4Njg4MzE2LCJpZGVudGl0eSI6MTIzfQ.-5yqz_QXhbUrL3qylcnAdUMG_sLff53EUaTnMqUHEwY",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "image_file",
+							"type": "file",
+							"src": "/C:/Manmaya/i@IL/Customers/Delivery/Star Health/Test Cases/Demo/Set25-07-04-Health Gain -PAN-Aadhar-DL-CASH/AADHAR3.JPG"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://docs-automation-uat.starhealth.in/api/masking",
+					"protocol": "https",
+					"host": [
+						"docs-automation-uat",
+						"starhealth",
+						"in"
+					],
+					"path": [
+						"api",
+						"masking"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Pasbook",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "passbook_doc",
+							"type": "file",
+							"src": "/C:/Users/manje/Downloads/MicrosoftTeams-image (3).png"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://docs-automation.starhealth.in/api/passbook",
+					"protocol": "https",
+					"host": [
+						"docs-automation",
+						"starhealth",
+						"in"
+					],
+					"path": [
+						"api",
+						"passbook"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Cheque",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MjYyODYwOTMsImlhdCI6MTYyNjI4NTc5MywibmJmIjoxNjI2Mjg1NzkzLCJpZGVudGl0eSI6MTIzfQ.Zh-iPqEctw1Zs-KkEcQQxmAB0o4BZvBXaSQwKtBuQOa",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "cheque_doc",
+							"type": "file",
+							"src": "/C:/Users/manje/Downloads/MicrosoftTeams-image (4).png"
+						},
+						{
+							"key": "name",
+							"value": "",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://docs-automation.starhealth.in/api/cheque",
+					"protocol": "https",
+					"host": [
+						"docs-automation",
+						"starhealth",
+						"in"
+					],
+					"path": [
+						"api",
+						"cheque"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Auth",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"username\":\"gAAAAABfqhmdiVzoGThMkYkX1wKTlbK_yh1XLdECahns85T9XhNl7Lff3I-frOyn8gGoWSctvVTw-4woa8gkRly9RQPZz6n67w==\",\"password\":\"gAAAAABfqhmdiVzoGThMkYkX1wKTlbK_yh1XLdECahns85T9XhNl7Lff3I-frOyn8gGoWSctvVTw-4woa8gkRly9RQPZz6n67w==\"}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://docs-automation-uat.starhealth.in/auth",
+					"protocol": "https",
+					"host": [
+						"docs-automation-uat",
+						"starhealth",
+						"in"
+					],
+					"path": [
+						"auth"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,15 +1,11 @@
-import camelot
 import os
+import camelot
 import pandas as pd
-import pikepdf
 cwd = os.path.abspath('')
 files = os.listdir(cwd)
-file= r"D:\camelot\Top 51-80 Providers\51-80 Rank Hospitals@ Tariff's\N0048\N0048_Vasuclar Additional_Aug15.pdf"
-pdf = pikepdf.Pdf.open(file)
-print(pdf)
-
-# tables2=camelot.read_pdf(pdf, flavor='lattice', pages='all')#stream#lattice
-# print(tables2)
-# tables2.export(r"D:\camelot\Top 51-80 Providers\51-80 Rank Hospitals@ Tariff's\N0048\Results\TRY", f='csv',compress=True)#,compress=True
+file=r"D:\Backup\Backup\camelot\N0679_Hospital Rates_11thJul19.pdf"
+tables2=camelot.read_pdf(file, flavor='lattice', pages='144')#stream#lattice
+print(tables2)
+tables2.export('144.csv', f='csv', compress=True)
 
 
